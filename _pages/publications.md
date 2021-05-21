@@ -22,10 +22,10 @@ Kabgani, N., Menzel, S., Zenke, M., Kramann, R.<sup>\*</sup> and Costa, I.G.<sup
 * Guo, J., **Li, Z.** and Yang, S., 2019. [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x). Soft Computing, 23(12), pp.4113-4130.
 
 ## 2018
-* GUO, J., XIE, W. and **Li, Z.**., 2018. [Enhancing JADE utilizing distance of best solutions](https://en.cnki.com.cn/Article_en/CJFDTotal-SJSJ201801021.htm). Computer Engineering and Design, p.01.
+* GUO, J., XIE, W. and **Li, Z.**, 2018. [Enhancing JADE utilizing distance of best solutions](https://en.cnki.com.cn/Article_en/CJFDTotal-SJSJ201801021.htm). Computer Engineering and Design, p.01.
 
 ## 2016
 * **Li, Z.**, Guo, J. and Yang, S., 2016. [Improving the JADE algorithm by clustering successful parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159). International Journal of Wireless and Mobile Computing, 11(3), pp.190-197.
 
 ## 2015
-* Guo, J., **Li, Z.**, Xie, W. and Wang, H., 2015, May. [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274?casa_token=FMCd_xi8iVUAAAAA:FUFH1HmYm7hk20ywiqhhSOogPq6P3jn4HOHo6JjRSaG3xttMNV_MiSsXTzn6WebHDkN6fGNfAg). In 2015 IEEE Congress on Evolutionary Computation (CEC) (pp. 3088-3095). IEEE.
+* Guo, J., **Li, Z.**, Xie, W. and Wang, H., 2015. [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274?casa_token=FMCd_xi8iVUAAAAA:FUFH1HmYm7hk20ywiqhhSOogPq6P3jn4HOHo6JjRSaG3xttMNV_MiSsXTzn6WebHDkN6fGNfAg). In 2015 IEEE Congress on Evolutionary Computation (CEC) (pp. 3088-3095). IEEE.
