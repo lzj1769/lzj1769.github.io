@@ -15,7 +15,7 @@ Kabgani, N., Menzel, S., Zenke, M., Kramann, R.<sup>\*</sup> and Costa, I.G.<sup
 ## 2020
 * Kuppe, C.<sup>\#</sup>, Flores, R.O.R.<sup>\#</sup>, **Li, Z.<sup>\#</sup>**,
  Hannani, M., Tanevski, J., Halder, M., Cheng, M., Ziegler, S., Zhang, X., 
- Preisker, F. and Kaesler, N., 2020. [Spatial multi-omic map of human myocardial infarction](https://www.biorxiv.org/content/10.1101/2020.12.08.411686v1.abstract). bioRxiv.
+ Preisker, F., Kaesler, N., Xu, Y., Hoogenboezem, R.M., Bindels, E., Schneider, R.K., Milting, H., Costa, I.G.<sup>\*</sup>, Saez-Rodriguez, J.<sup>\*</sup> and Kramann, R.<sup>\*</sup>, 2020. [Spatial multi-omic map of human myocardial infarction](https://www.biorxiv.org/content/10.1101/2020.12.08.411686v1.abstract). bioRxiv.
 
 ## 2019
 * **Li, Z.**, Schulz, M.H., Look, T., Begemann, M., Zenke, M. and Costa, I.G., 2019. [Identification of transcription factor binding sites using ATAC-seq](https://link.springer.com/article/10.1186/s13059-019-1642-2). Genome biology, 20(1), pp.1-21.
