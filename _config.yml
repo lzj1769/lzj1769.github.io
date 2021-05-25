@@ -9,11 +9,9 @@ breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 
-# Analytics
-analytics:
-  provider               :  "google" # false (default), "google", "google-universal", "custom"
-  google:
-    tracking_id          : G-YND807F927
+
+# Google Analytics
+google_analytics: UA—XXXXXXXX-X
 
 
 # Site Author
