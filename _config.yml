@@ -19,7 +19,7 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "profile.png"
+  avatar           : "./assets/profile/zhijian_li.png"
   location         : "Aachen, Germany"
   googlescholar    : "https://scholar.google.de/citations?user=xG5HYekAAAAJ&hl=en"
   github           : "lzj1769"
