@@ -1,4 +1,3 @@
-locale                   : "en-US"
 title                    : "Zhijian Li"
 email                    : 'zhijian.li@rwth-aachen.de'
 name                     : "Zhjian Li"
@@ -50,7 +49,7 @@ analytics:
 
 # Site Author
 author:
-  name             : ""
+  name             : "Zhijian Li"
   avatar           : "profile.png"
   location         : "Aachen, Germany"
   googlescholar    : "https://scholar.google.de/citations?user=xG5HYekAAAAJ&hl=en"
