@@ -1,6 +1,7 @@
 title                    : "Zhijian Li"
-name                     : &name "Zhjian Li"
-description              : &description "personal description"
+email                    : zhijian.li@rwth-aachen.de
+name                     : "Zhjian Li"
+description              : "personal description"
 url                      : 'https://lzj1769.github.io' 
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lzj1769/lzj1769.github.io"
@@ -47,7 +48,7 @@ yandex_site_verification :
 
 # Social Sharing
 twitter:
-  username               : &twitter
+  username               : ZhijianLi3
 og_image                 :  # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
