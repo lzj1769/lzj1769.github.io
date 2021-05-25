@@ -1,4 +1,5 @@
-title                    : "Zhijian Li"
+locale                   : "en-US"
+title                    : "Zhijian Li's Webpage"
 email                    : 'zhijian.li@rwth-aachen.de'
 name                     : "Zhjian Li"
 description              : "personal description"
@@ -6,7 +7,7 @@ url                      : 'https://lzj1769.github.io'
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "lzj1769/lzj1769.github.io"
 twitter_username         : "ZhijianLi3"
-breadcrumbs              : false # true, false (default)
+breadcrumbs              : true # true, false (default)
 words_per_minute         : 160
 read_more                : "disabled" # if enabled, adds "Read more" links to excerpts
 talkmap_link             : false #change to true to add link to talkmap on talks page
@@ -143,6 +144,7 @@ defaults:
       comments: true
       share: true
       related: true
+      show_data: true
   # _pages
   - scope:
       path: ""
