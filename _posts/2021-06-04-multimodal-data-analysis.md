@@ -12,7 +12,7 @@ Recent advances in technology has enabled measuring multiple layers information 
 Two methods were developed for this propose, namely [Seurat V4](https://www.cell.com/cell/fulltext/S0092-8674(21)00583-3) and [MOFA+](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-020-02015-1). In this blog, I would like to use them to analyze a single cell multi-omic data generated using 10x multiome protocol. The raw data can be found [here](https://support.10xgenomics.com/single-cell-multiome-atac-gex/datasets) and we will use the processed R object from [MOFA+ tutorial](https://raw.githack.com/bioFAM/MOFA2_tutorials/master/R_tutorials/10x_scRNA_scATAC.html).
 
 First, let's import the required libraries:
-```terminal
+```R
 library(MOFA2)
 library(Seurat)
 ```
