@@ -1,4 +1,5 @@
 ---
+layout: post
 title: 'Visualize multi-modal data using Seurat V4 and MOFA'
 date: 2021-06-04
 permalink: /posts/2021/06/viz-multimodal-data/
