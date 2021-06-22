@@ -1,1 +1,1 @@
-bundle exec Jekyll serve
+bundle exec Jekyll serve --drafts
