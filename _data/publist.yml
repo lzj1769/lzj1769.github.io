@@ -1,8 +1,5 @@
 - title: "Dissipative differential evolution with self-adaptive control parameters"
-  authors: J. Guo, \textbf{Z. Li}, W. Xie, H. Wang.
+  authors: J. Guo, <b>Z. Li<\b>, W. Xie, H. Wang.
   year: 2015
-  link:
-    url: https://arxiv.org/abs/2205.10346
-    display: arXiv:2205.10346 (2022)
   type: 1
 
