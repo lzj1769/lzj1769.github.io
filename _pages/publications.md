@@ -20,3 +20,5 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 **International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
+
+H. Xu, M. A. Karpinska, **Z. Li**, C. Kuo, K. Götz, T. Look, M. de Toledo, K. Seré, G.Z. Bensch, A. Oudelaar, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. **Molecular Cell** (2022). (Submitted)
