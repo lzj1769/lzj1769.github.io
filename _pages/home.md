@@ -7,8 +7,6 @@ permalink: /
 
 I am a Ph.D. student at the [Institute for Computational Genomics](http://www.costalab.org/), RWTH Aachen University. My current research interest is in appling and developing machine learning methods to analyze single cell RNA/ATAC-seq data.
 
-<!--
 <figure class="fourth">
-  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/rwth-log.png" style="width: 210px">
+  <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/icg-logo.png" style="width: 210px">
 </figure>
--->
