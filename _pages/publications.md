@@ -12,6 +12,8 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
+* C. Kuppe<sup>\#</sup>, R. Flores<sup>\#</sup>, \textbf{Z. Li<sup>\#</sup>}, S. Hayat, M. Hannani, J. Tanevski, M. Halder, M. Cheng, S. Ziegler, X. Zhang, F. Preisker, N. Kaesler, Y. Xu, R. M. Hoogenboezem, E. M. Bindels, R. K. Schneider, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (Accepted)
+
 * **Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen. **Nature Communications** (2021).
 
 * **Z. Li**, M. H. Schulz, T. Look, M. Begemann, M. Zenke, I. G. Costa. Identification of transcription factor binding sites using ATAC-seq. **Genome Biology** (2019).
