@@ -9,7 +9,6 @@ I am a Ph.D. student at the [Institute for Computational Genomics](http://www.co
 
 I developed [HINT-ATAC](https://link.springer.com/article/10.1186/s13059-019-1642-2) for prediction of transcription factor binding sites using ATAC-seq, [scOpen](https://www.nature.com/articles/s41467-021-26530-2) for single-cell ATAC-seq data imputation and dimensionality reduction. For more details about my work, see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
 
-<!---
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" 
 data-interval="4000" data-pause="hover" >
     <ol class="carousel-indicators">
@@ -51,8 +50,6 @@ data-interval="4000" data-pause="hover" >
     <span class="sr-only">Next</span>
   </a>
 </div>
-
--->
 
 <!--
 <figure class="fourth">
