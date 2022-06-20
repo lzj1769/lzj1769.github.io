@@ -27,7 +27,7 @@ I developed [HINT-ATAC](https://link.springer.com/article/10.1186/s13059-019-164
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hint-atac-1.jpg" alt="Slide 1" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SmartTipSide.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hint-atac-2.jpg" alt="Slide 2" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/SaphireSTM2.jpg" alt="Slide 3" />
