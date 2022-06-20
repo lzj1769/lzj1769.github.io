@@ -33,7 +33,7 @@ I developed [HINT-ATAC](https://link.springer.com/article/10.1186/s13059-019-164
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen-1.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/lab.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen-2.jpg" alt="Slide 4" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/Fig_Science_Web.jpg" alt="Slide 5" />
