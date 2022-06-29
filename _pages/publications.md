@@ -29,9 +29,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * H. Xu, M. A. Karpinska, **Z. Li**, C. Kuo, K. Götz, T. Look, M. de Toledo, K. Seré, G.Z. Bensch, A. Oudelaar, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. **Molecular Cell** (2022). (Submitted)
 
-* M. Cheng, **Z. Li**, I. G. Costa. MOJITOO: a fast and universal method for integration of multimodal single cell data. **Bioinforamtics** (2022). (Accepted)
+* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. **Nature Cardiovascular Research** (2022). (Submitted)
 
-* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. **Nature Cardiovascular Research** (2022). (Under review)
+* M. Cheng, **Z. Li**, I. G. Costa. MOJITOO: a fast and universal method for integration of multimodal single cell data. **Bioinforamtics** (2022).
 
 * S. Heller, **Z. Li**, Q. Lin, R. Geusz, M. Breunig, M. Hohwieler, X. Zhang, G. Nair, T. Seufferlein, M. Hebrok, M. Sander, C. Julier, A. Kleger<sup>*</sup>, I. G. Costa<sup>*</sup>. Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation. **Communications Biology** (2021).
 
