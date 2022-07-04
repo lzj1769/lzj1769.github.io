@@ -27,9 +27,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * E. F. Brandt, T. H. Wirtz, **Z. Li**, M. M. Ibrahim, P. Fischer, A. Beckers, A. Flabhove, I. G. Costa, R. Kramann, E. van der Vorst, C. Liedtke, H. Sahin, C. Trautwein, M. L. Berres. CXCR3-expressing macrophages regulate angiogenesis, tumor cell proliferation and immune evasion in hepatocellular carcinoma. (2022) (Submitted).
 
-* H. Xu, M. A. Karpinska, **Z. Li**, C. Kuo, K. Götz, T. Look, M. de Toledo, K. Seré, G.Z. Bensch, A. Oudelaar, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. **Molecular Cell** (2022). (Submitted)
+* H. Xu, M. A. Karpinska, **Z. Li**, C. Kuo, K. Götz, T. Look, M. de Toledo, K. Seré, G.Z. Bensch, A. Oudelaar, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. (2022). (Submitted)
 
-* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. **Nature Cardiovascular Research** (2022). (Submitted)
+* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. (2022). (Submitted)
 
 * M. Cheng, **Z. Li**, I. G. Costa. MOJITOO: a fast and universal method for integration of multimodal single cell data. **Bioinforamtics** (2022).
 
