@@ -12,6 +12,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
+* C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>.
+Integrative single-cell multi-omics analysis reveals traits associated with early heart failure. (2022). (In preparation)
+
 * **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted)
 
 * C. Kuppe<sup>\#</sup>, R. Flores<sup>\#</sup>, **Z. Li**<sup>\#</sup>, S. Hayat, M. Hannani, J. Tanevski, M. Halder, M. Cheng, S. Ziegler, X. Zhang, F. Preisker, N. Kaesler, Y. Xu, R. M. Hoogenboezem, E. M. Bindels, R. K. Schneider, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (Accepted)
