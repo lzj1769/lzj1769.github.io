@@ -12,10 +12,10 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
-* C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>.
+C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>.
 Integrative single-cell multi-omics analysis reveals traits associated with early heart failure. (2022). (In preparation)
 
-* **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted)
+**Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted)
 
 * C. Kuppe<sup>\#</sup>, R. O. R. Flores<sup>\#</sup>, **Z. Li<sup>\#</sup>**, S. Hayat, R. T. Levinson, X. Liao, M. T. Hannani, J. Tanevski, F. Wünnemann, J. S. Nagai, M. Halder, D. Schumacher, S. Menzel, G. Schäfer, K. Hoeft, M. Cheng, S. Ziegler, X. Zhang, F. Peisker, N. Kaesler, T. Saritas, Y. Xu, A. Kassner, J. Gummert, M. Morshuis, J. Amrute, R. J. A. Veltrop, P. Boor, K. Klingel, L. W. Van Laake, A. Vink, R. M. Hoogenboezem18, E. M. J. Bindels, L. Schurgers, S. Sattler, D. Schapiro, R. K. Schneider, K. Lavine, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. Saez-Rodriguez<sup>\*</sup> and R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (In press)
 
