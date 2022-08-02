@@ -17,13 +17,13 @@ Integrative single-cell multi-omics analysis reveals traits associated with earl
 
 **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted)
 
-* C. Kuppe<sup>\#</sup>, R. O. R. Flores<sup>\#</sup>, **Z. Li<sup>\#</sup>**, S. Hayat, R. T. Levinson, X. Liao, M. T. Hannani, J. Tanevski, F. Wünnemann, J. S. Nagai, M. Halder, D. Schumacher, S. Menzel, G. Schäfer, K. Hoeft, M. Cheng, S. Ziegler, X. Zhang, F. Peisker, N. Kaesler, T. Saritas, Y. Xu, A. Kassner, J. Gummert, M. Morshuis, J. Amrute, R. J. A. Veltrop, P. Boor, K. Klingel, L. W. Van Laake, A. Vink, R. M. Hoogenboezem18, E. M. J. Bindels, L. Schurgers, S. Sattler, D. Schapiro, R. K. Schneider, K. Lavine, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. Saez-Rodriguez<sup>\*</sup> and R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (In press)
+C. Kuppe<sup>\#</sup>, R. O. R. Flores<sup>\#</sup>, **Z. Li<sup>\#</sup>**, S. Hayat, R. T. Levinson, X. Liao, M. T. Hannani, J. Tanevski, F. Wünnemann, J. S. Nagai, M. Halder, D. Schumacher, S. Menzel, G. Schäfer, K. Hoeft, M. Cheng, S. Ziegler, X. Zhang, F. Peisker, N. Kaesler, T. Saritas, Y. Xu, A. Kassner, J. Gummert, M. Morshuis, J. Amrute, R. J. A. Veltrop, P. Boor, K. Klingel, L. W. Van Laake, A. Vink, R. M. Hoogenboezem18, E. M. J. Bindels, L. Schurgers, S. Sattler, D. Schapiro, R. K. Schneider, K. Lavine, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. Saez-Rodriguez<sup>\*</sup> and R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (In press)
 
-* **Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen. **Nature Communications** (2021).
+**Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen. **Nature Communications** (2021).
 
-* **Z. Li**, M. H. Schulz, T. Look, M. Begemann, M. Zenke, I. G. Costa. Identification of transcription factor binding sites using ATAC-seq. **Genome Biology** (2019).
+**Z. Li**, M. H. Schulz, T. Look, M. Begemann, M. Zenke, I. G. Costa. Identification of transcription factor binding sites using ATAC-seq. **Genome Biology** (2019).
 
-* **Z. Li**, J. Guo, S. Yang. Improving the JADE Algorithm by Clustering Successful Parameters.
+**Z. Li**, J. Guo, S. Yang. Improving the JADE Algorithm by Clustering Successful Parameters.
 **International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
