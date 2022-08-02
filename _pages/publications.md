@@ -18,7 +18,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * C. Kuppe<sup>\#</sup>, R. O. R. Flores<sup>\#</sup>, **Z. Li<sup>\#</sup>**, S. Hayat, R. T. Levinson, X. Liao, M. T. Hannani, J. Tanevski, F. Wünnemann, J. S. Nagai, M. Halder, D. Schumacher, S. Menzel, G. Schäfer, K. Hoeft, M. Cheng, S. Ziegler, X. Zhang, F. Peisker, N. Kaesler, T. Saritas, Y. Xu, A. Kassner, J. Gummert, M. Morshuis, J. Amrute, R. J. A. Veltrop, P. Boor, K. Klingel, L. W. Van Laake, A. Vink, R. M. Hoogenboezem18, E. M. J. Bindels, L. Schurgers, S. Sattler, D. Schapiro, R. K. Schneider, K. Lavine, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. Saez-Rodriguez<sup>\*</sup> and R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (In press)
 
-* **Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen. **Nature Communications** (2021).
+* **Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen. **Nature Communications** (2021). [paper](https://www.nature.com/articles/s41467-021-26530-2)
 
 * **Z. Li**, M. H. Schulz, T. Look, M. Begemann, M. Zenke, I. G. Costa. Identification of transcription factor binding sites using ATAC-seq. **Genome Biology** (2019).
 
