@@ -20,9 +20,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * **Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2). **Nature Communications** (2021).
 
-* **Z. Li**, M. H. Schulz, T. Look, M. Begemann, M. Zenke, I. G. Costa. Identification of transcription factor binding sites using ATAC-seq. **Genome Biology** (2019).
+* **Z. Li**, M. H. Schulz, T. Look, M. Begemann, M. Zenke, I. G. Costa. [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2). **Genome Biology** (2019).
 
-* **Z. Li**, J. Guo, S. Yang. Improving the JADE Algorithm by Clustering Successful Parameters.
+* **Z. Li**, J. Guo, S. Yang. [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159).
 **International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
@@ -37,11 +37,11 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * M. Cheng, **Z. Li**, I. G. Costa. MOJITOO: a fast and universal method for integration of multimodal single cell data. **Bioinforamtics** (2022).
 
-* S. Heller, **Z. Li**, Q. Lin, R. Geusz, M. Breunig, M. Hohwieler, X. Zhang, G. Nair, T. Seufferlein, M. Hebrok, M. Sander, C. Julier, A. Kleger<sup>*</sup>, I. G. Costa<sup>*</sup>. Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation. **Communications Biology** (2021).
+* S. Heller, **Z. Li**, Q. Lin, R. Geusz, M. Breunig, M. Hohwieler, X. Zhang, G. Nair, T. Seufferlein, M. Hebrok, M. Sander, C. Julier, A. Kleger<sup>*</sup>, I. G. Costa<sup>*</sup>. [Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation](https://www.nature.com/articles/s42003-021-02818-3). **Communications Biology** (2021).
 
-* A. Philippi<sup>\#</sup>, S. Heller<sup>\#</sup>, I.G. Costa<sup>\#</sup>, V. Senée<sup>\#</sup>, M. Breunig, **Z. Li**, G. Kwon, R. Russell, A. Illing, Q. Lin, M. Hohwieler, A. Degavre, P. Zalloua, S. Liebau, M. Schuster, J. Krumm, X. Zhang, R. Geusz, J.R. Benthuysen, A. Wang, J. Chiou, K. Gaulton, H. Neubauer, E. Simon, T. Klein, M. Wagner, G. Nair, C. Besse, C. Dandine-Roulland, R. Olaso, J. Deleuze, B. Kuster, M. Hebrok, T. Seufferlein, M. Sander, B.O. Boehm, F. Oswald, M. Nicolino<sup>*</sup>, C. Julier<sup>*</sup>, A. Kleger<sup>*</sup>. Mutations and variants of ONECUT1 in diabetes. **Nature Medicine** (2021).
+* A. Philippi<sup>\#</sup>, S. Heller<sup>\#</sup>, I.G. Costa<sup>\#</sup>, V. Senée<sup>\#</sup>, M. Breunig, **Z. Li**, G. Kwon, R. Russell, A. Illing, Q. Lin, M. Hohwieler, A. Degavre, P. Zalloua, S. Liebau, M. Schuster, J. Krumm, X. Zhang, R. Geusz, J.R. Benthuysen, A. Wang, J. Chiou, K. Gaulton, H. Neubauer, E. Simon, T. Klein, M. Wagner, G. Nair, C. Besse, C. Dandine-Roulland, R. Olaso, J. Deleuze, B. Kuster, M. Hebrok, T. Seufferlein, M. Sander, B.O. Boehm, F. Oswald, M. Nicolino<sup>*</sup>, C. Julier<sup>*</sup>, A. Kleger<sup>*</sup>. [Mutations and variants of ONECUT1 in diabetes](https://www.nature.com/articles/s41591-021-01502-7). **Nature Medicine** (2021).
 
-* J. Guo, **Z. Li**, S. Yang. Accelerating differential evolution based on a subset-to-subset survivor selection operator. **Soft Computing** (2019).
+* J. Guo, **Z. Li**, S. Yang. [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x). **Soft Computing** (2019).
 
 * J. Guo, W. Xie, **Z, Li**. Enhancing JADE utilizing distance of best solutions. **Computer Engineering and Design** (2018).
 
