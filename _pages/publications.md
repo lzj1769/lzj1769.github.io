@@ -35,7 +35,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. (2022). (Submitted)
 
-* M. Cheng, **Z. Li**, I. G. Costa. MOJITOO: a fast and universal method for integration of multimodal single cell data. **Bioinforamtics** (2022).
+* M. Cheng, **Z. Li**, I. G. Costa. [MOJITOO: a fast and universal method for integration of multimodal single cell data](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520). **Bioinforamtics** (2022).
 
 * S. Heller, **Z. Li**, Q. Lin, R. Geusz, M. Breunig, M. Hohwieler, X. Zhang, G. Nair, T. Seufferlein, M. Hebrok, M. Sander, C. Julier, A. Kleger<sup>*</sup>, I. G. Costa<sup>*</sup>. [Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation](https://www.nature.com/articles/s42003-021-02818-3). **Communications Biology** (2021).
 
@@ -43,6 +43,4 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * J. Guo, **Z. Li**, S. Yang. [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x). **Soft Computing** (2019).
 
-* J. Guo, W. Xie, **Z, Li**. Enhancing JADE utilizing distance of best solutions. **Computer Engineering and Design** (2018).
-
-* J. Guo, **Z. Li**, W. Xie, H. Wang. Dissipative differential evolution with self-adaptive control parameters. **IEEE Congress on Evolutionary Computation** (2015).
+* J. Guo, **Z. Li**, W. Xie, H. Wang. [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274). **IEEE Congress on Evolutionary Computation** (2015).
