@@ -27,7 +27,8 @@ C. Kuppe<sup>\#</sup>, R. O. R. Flores<sup>\#</sup>, **Z. Li<sup>\#</sup>**, S. 
 
 ### Contributed papers
 
-H. Xu, **Z. Li**, C. C. Kuo, K. Götz, T. Look, M. A. S. de Toledo, K. Seré, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. (2022). (Submitted)
+A lncRNA identifies IRF8 enhancer in feedback control of DC development \
+H. Xu, **Z. Li**, C. C. Kuo, K. Götz, T. Look, M. A. S. de Toledo, K. Seré, I. G. Costa and M. Zenke. . (2022). (Submitted)
 
 K. Ohl, J. Hriczko, S. Schulz, T. Look, T. Goodarzi, S.H. Subramanyam, T. Clarner, M. Scheld, M. Kipp, E. Verjans, S. Boll, I. G. Costa, **Z. Li**, L. Gan, B. Denecke, A. Schippers, S. Floess, J. Huehn, E. Schmitt, T. Bopp, R. Beyaert, B. Lambrecht, M. Zenke, N. Wagner, K. Tenbrock. Foxp3-specific deletion of CREB generates Th2 biased ST-2 positive regulatory T-cells with enhanced IL-10 production and suppressive capacity. (2022) (Submitted).
 
