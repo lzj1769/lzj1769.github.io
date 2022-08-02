@@ -17,7 +17,7 @@ Integrative single-cell multi-omics analysis reveals traits associated with earl
 
 * **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted)
 
-* C. Kuppe<sup>\#</sup>, R. Flores<sup>\#</sup>, **Z. Li**<sup>\#</sup>, S. Hayat, M. Hannani, J. Tanevski, M. Halder, M. Cheng, S. Ziegler, X. Zhang, F. Preisker, N. Kaesler, Y. Xu, R. M. Hoogenboezem, E. M. Bindels, R. K. Schneider, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (Accepted)
+* C. Kuppe\#</sup>, R. O. R. Flores\#</sup>, **Z. Li\#</sup>**, S. Hayat, R. T. Levinson, X. Liao, M. T. Hannani, J. Tanevski, F. Wünnemann, J. S. Nagai, M. Halder, D. Schumacher, S. Menzel, G. Schäfer, K. Hoeft, M. Cheng, S. Ziegler, X. Zhang, F. Peisker, N. Kaesler, T. Saritas, Y. Xu, A. Kassner, J. Gummert, M. Morshuis, J. Amrute, R. J. A. Veltrop, P. Boor, K. Klingel, L. W. Van Laake, A. Vink, R. M. Hoogenboezem18, E. M. J. Bindels, L. Schurgers, S. Sattler, D. Schapiro, R. K. Schneider, K. Lavine, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. Saez-Rodriguez<sup>\*</sup> and R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (In press)
 
 * **Z. Li**<sup>\#</sup>, C. Kuppe<sup>\#</sup>, S. Ziegler, M. Cheng, N. Kabgani, S. Menzel, M. Zenke, R. Kramann<sup>\*</sup>, I. G. Costa<sup>\*</sup>. Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen. **Nature Communications** (2021).
 
