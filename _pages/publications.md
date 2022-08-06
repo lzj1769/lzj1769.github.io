@@ -12,9 +12,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
-* C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure.(2022). (In preparation)
+<!-- * C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure.(2022). (In preparation)
 
-* **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted)
+* **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted) -->
 
 * C. Kuppe<sup>\#</sup>, R. O. R. Flores<sup>\#</sup>, **Z. Li<sup>\#</sup>**, S. Hayat, R. T. Levinson, X. Liao, M. T. Hannani, J. Tanevski, F. Wünnemann, J. S. Nagai, M. Halder, D. Schumacher, S. Menzel, G. Schäfer, K. Hoeft, M. Cheng, S. Ziegler, X. Zhang, F. Peisker, N. Kaesler, T. Saritas, Y. Xu, A. Kassner, J. Gummert, M. Morshuis, J. Amrute, R. J. A. Veltrop, P. Boor, K. Klingel, L. W. Van Laake, A. Vink, R. M. Hoogenboezem18, E. M. J. Bindels, L. Schurgers, S. Sattler, D. Schapiro, R. K. Schneider, K. Lavine, H. Milting<sup>\*</sup>, I. G. Costa<sup>\*</sup>, J. Saez-Rodriguez<sup>\*</sup> and R. Kramann<sup>\*</sup>. Spatial multi-omic map of human myocardial infarction. **Nature** (2022). (In press)
 
@@ -27,13 +27,13 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Contributed papers
 
-* H. Xu, **Z. Li**, C. C. Kuo, K. Götz, T. Look, M. A. S. de Toledo, K. Seré, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. (2022). (Submitted)
+<!-- * H. Xu, **Z. Li**, C. C. Kuo, K. Götz, T. Look, M. A. S. de Toledo, K. Seré, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. (2022). (Submitted)
 
 * K. Ohl, J. Hriczko, S. Schulz, T. Look, T. Goodarzi, S.H. Subramanyam, T. Clarner, M. Scheld, M. Kipp, E. Verjans, S. Boll, I. G. Costa, **Z. Li**, L. Gan, B. Denecke, A. Schippers, S. Floess, J. Huehn, E. Schmitt, T. Bopp, R. Beyaert, B. Lambrecht, M. Zenke, N. Wagner, K. Tenbrock. Foxp3-specific deletion of CREB generates Th2 biased ST-2 positive regulatory T-cells with enhanced IL-10 production and suppressive capacity. (2022) (Submitted).
 
 * E. F. Brandt, T. H. Wirtz, **Z. Li**, M. M. Ibrahim, P. Fischer, A. Beckers, A. Flabhove, I. G. Costa, R. Kramann, E. van der Vorst, C. Liedtke, H. Sahin, C. Trautwein, M. L. Berres. CXCR3-expressing macrophages regulate angiogenesis, tumor cell proliferation and immune evasion in hepatocellular carcinoma. (2022) (Submitted).
 
-* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. (2022). (Submitted)
+* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. (2022). (Submitted) -->
 
 * M. Cheng, **Z. Li**, I. G. Costa. [MOJITOO: a fast and universal method for integration of multimodal single cell data](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520). **Bioinforamtics** (2022).
 
