@@ -30,7 +30,7 @@ data-interval="4000" data-pause="hover" >
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen-2.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" />
         </div>     
     </div>
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
