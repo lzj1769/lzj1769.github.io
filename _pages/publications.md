@@ -27,9 +27,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Contributed papers
 
-<!-- * H. Xu, **Z. Li**, C. C. Kuo, K. Götz, T. Look, M. A. S. de Toledo, K. Seré, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. (2022). (Submitted)
+ * H. Xu, **Z. Li**, C. C. Kuo, K. Götz, T. Look, M. A. S. de Toledo, K. Seré, I. G. Costa and M. Zenke. A lncRNA identifies IRF8 enhancer in feedback control of DC development. [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.11.503623v1). (2022).
 
-* K. Ohl, J. Hriczko, S. Schulz, T. Look, T. Goodarzi, S.H. Subramanyam, T. Clarner, M. Scheld, M. Kipp, E. Verjans, S. Boll, I. G. Costa, **Z. Li**, L. Gan, B. Denecke, A. Schippers, S. Floess, J. Huehn, E. Schmitt, T. Bopp, R. Beyaert, B. Lambrecht, M. Zenke, N. Wagner, K. Tenbrock. Foxp3-specific deletion of CREB generates Th2 biased ST-2 positive regulatory T-cells with enhanced IL-10 production and suppressive capacity. (2022) (Submitted).
+<!-- * K. Ohl, J. Hriczko, S. Schulz, T. Look, T. Goodarzi, S.H. Subramanyam, T. Clarner, M. Scheld, M. Kipp, E. Verjans, S. Boll, I. G. Costa, **Z. Li**, L. Gan, B. Denecke, A. Schippers, S. Floess, J. Huehn, E. Schmitt, T. Bopp, R. Beyaert, B. Lambrecht, M. Zenke, N. Wagner, K. Tenbrock. Foxp3-specific deletion of CREB generates Th2 biased ST-2 positive regulatory T-cells with enhanced IL-10 production and suppressive capacity. (2022) (Submitted).
 
 * E. F. Brandt, T. H. Wirtz, **Z. Li**, M. M. Ibrahim, P. Fischer, A. Beckers, A. Flabhove, I. G. Costa, R. Kramann, E. van der Vorst, C. Liedtke, H. Sahin, C. Trautwein, M. L. Berres. CXCR3-expressing macrophages regulate angiogenesis, tumor cell proliferation and immune evasion in hepatocellular carcinoma. (2022) (Submitted).
 
