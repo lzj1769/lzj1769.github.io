@@ -27,7 +27,7 @@ data-interval="4000" data-pause="hover" >
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen-1.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen-2.jpg" alt="Slide 4" />
