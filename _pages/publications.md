@@ -13,10 +13,11 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 ### First/co-first author papers
 
 <!-- * C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure.(2022). (In preparation)
+ -->
 
-* **Z. Li**, J. Nagai, C. Kuppe, R. Kramann, I. G. Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference. (2022). (Submitted) -->
+* **Z Li**, J Nagai, C Kuppe, R Kramann, I G Costa. [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1). **BioRxiv** (2022).
 
-* C. Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, R J A Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, E M J Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>. [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x). **Nature** (2022).
+* C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, R J A Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, E M J Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>. [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x). **Nature** (2022).
 
 * **Z Li**<sup>\#</sup>, C Kuppe<sup>\#</sup>, S Ziegler, M Cheng, N Kabgani, S Menzel, M Zenke, R Kramann<sup>\*</sup>, IG Costa<sup>\*</sup>. [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2). **Nature Communications** (2021).
 
