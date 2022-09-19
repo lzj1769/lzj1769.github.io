@@ -50,7 +50,7 @@ E. F. Brandt, T. H. Wirtz, **Z. Li**, M. M. Ibrahim, P. Fischer, A. Beckers, A. 
 (**Submitted**) (2022)
 
 * Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction\
-D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>.\
+D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>\*</sup>, R. Kramann<sup>\*</sup>.\
 (**Submitted**) (2022)
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://www.biorxiv.org/content/10.1101/2022.08.11.503623v1)\
