@@ -41,11 +41,17 @@ C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, R
 **International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
-* K. Ohl, J. Hriczko, S. Schulz, T. Look, T. Goodarzi, S.H. Subramanyam, T. Clarner, M. Scheld, M. Kipp, E. Verjans, S. Boll, I. G. Costa, **Z. Li**, L. Gan, B. Denecke, A. Schippers, S. Floess, J. Huehn, E. Schmitt, T. Bopp, R. Beyaert, B. Lambrecht, M. Zenke, N. Wagner, K. Tenbrock. Foxp3-specific deletion of CREB generates Th2 biased ST-2 positive regulatory T-cells with enhanced IL-10 production and suppressive capacity. (2022) (Submitted).
+* Foxp3-specific deletion of CREB generates Th2 biased ST-2 positive regulatory T-cells with enhanced IL-10 production and suppressive capacity\
+K. Ohl, J. Hriczko, S. Schulz, T. Look, T. Goodarzi, S.H. Subramanyam, T. Clarner, M. Scheld, M. Kipp, E. Verjans, S. Boll, I. G. Costa, **Z. Li**, L. Gan, B. Denecke, A. Schippers, S. Floess, J. Huehn, E. Schmitt, T. Bopp, R. Beyaert, B. Lambrecht, M. Zenke, N. Wagner, K. Tenbrock.\
+(**Submitted**) (2022)
 
-* E. F. Brandt, T. H. Wirtz, **Z. Li**, M. M. Ibrahim, P. Fischer, A. Beckers, A. Flabhove, I. G. Costa, R. Kramann, E. van der Vorst, C. Liedtke, H. Sahin, C. Trautwein, M. L. Berres. CXCR3-expressing macrophages regulate angiogenesis, tumor cell proliferation and immune evasion in hepatocellular carcinoma. (2022) (Submitted).
+* CXCR3-expressing macrophages regulate angiogenesis, tumor cell proliferation and immune evasion in hepatocellular carcinoma\
+E. F. Brandt, T. H. Wirtz, **Z. Li**, M. M. Ibrahim, P. Fischer, A. Beckers, A. Flabhove, I. G. Costa, R. Kramann, E. van der Vorst, C. Liedtke, H. Sahin, C. Trautwein, M. L. Berres.\
+(**Submitted**) (2022)
 
-* D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>. Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction. (2022). (Submitted)
+* Single Nucleus ATAC Sequencing Reveals Epigenomic Regulation After Myocardial Infarction\
+D. Schumacher<sup>\#</sup>, M. Cheng<sup>\#</sup>, C. Kuppe, E. M. Bindels, R. K. Schneider, **Z. Li**, I. G. Costa<sup>*</sup>, R. Kramann<sup>*</sup>.\
+(**Submitted**) (2022)
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://www.biorxiv.org/content/10.1101/2022.08.11.503623v1)\
 H Xu, **Z Li**, CC Kuo, K Götz, T Look, MAS de Toledo, K Seré, IG Costa and M Zenke.\
