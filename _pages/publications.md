@@ -64,7 +64,7 @@ H Xu, **Z Li**, CC Kuo, K Götz, T Look, MAS de Toledo, K Seré, IG Costa, M Zen
 
 * [MOJITOO: a fast and universal method for integration of multimodal single cell data](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520)\
 M Cheng, **Z Li**, IG Costa.\
-**Bioinforamtics** (2022).
+**Bioinformatics** (2022).
 
 * [Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation](https://www.nature.com/articles/s42003-021-02818-3)\
 S Heller, **Z Li**, Q Lin, R Geusz, M Breunig, M Hohwieler, X Zhang, G Nair, T Seufferlein, M Hebrok, M Sander, C Julier, A Kleger<sup>\*</sup>, IG Costa<sup>\*</sup>.\
