@@ -80,4 +80,4 @@ J Guo, **Z Li**, S Yang.\
 
 * [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274)\
 J Guo, **Z Li**, W Xie, H Wang.\
-**IEEE Congress on Evolutionary Computation** (2015).
+**_IEEE Congress on Evolutionary Computation_** (2015).
