@@ -44,4 +44,6 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * J Guo, **Z Li**, S Yang. [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x). ***Soft Computing*** (2019).
 
-* J Guo, **Z Li**, W Xie, H Wang. [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274). ***IEEE Congress on Evolutionary Computation*** (2015).
+* [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274). \
+  J Guo, **Z Li**, W Xie, H Wang.\
+  ***IEEE Congress on Evolutionary Computation*** (2015).
