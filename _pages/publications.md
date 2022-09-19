@@ -52,7 +52,7 @@ A Philippi<sup>\#</sup>, S Heller<sup>\#</sup>, I G Costa<sup>\#</sup>, V Senée
 
 * [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x)\
 J Guo, **Z Li**, S Yang.\
-**Soft Computing** (2019).
+**_Soft Computing_** (2019).
 
 * [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274)\
 J Guo, **Z Li**, W Xie, H Wang.\
