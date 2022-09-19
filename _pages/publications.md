@@ -68,7 +68,7 @@ M Cheng, **Z Li**, IG Costa.\
 
 * [Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation](https://www.nature.com/articles/s42003-021-02818-3)\
 S Heller, **Z Li**, Q Lin, R Geusz, M Breunig, M Hohwieler, X Zhang, G Nair, T Seufferlein, M Hebrok, M Sander, C Julier, A Kleger<sup>\*</sup>, IG Costa<sup>\*</sup>.\
-**Communications Biology 4**， 1298 (2021).
+**Communications Biology 4**, 1298 (2021).
 
 * [Mutations and variants of ONECUT1 in diabetes](https://www.nature.com/articles/s41591-021-01502-7)\
 A Philippi<sup>\#</sup>, S Heller<sup>\#</sup>, IG Costa<sup>\#</sup>, V Senée<sup>\#</sup>, M Breunig, **Z Li**, G Kwon, R Russell, A Illing, Q Lin, M Hohwieler, A Degavre, P Zalloua, S Liebau, M Schuster, J Krumm, X Zhang, R Geusz, J.R Benthuysen, A Wang, J Chiou, K Gaulton, H Neubauer, E Simon, T Klein, M Wagner, G Nair, C Besse, CD Roulland, R Olaso, J Deleuze, B Kuster, M Hebrok, T Seufferlein, M Sander, BO Boehm, F Oswald, M Nicolino<sup>\*</sup>, C Julier<sup>\*</sup>, A Kleger<sup>\*</sup>.\
