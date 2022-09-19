@@ -71,7 +71,7 @@ S Heller, **Z Li**, Q Lin, R Geusz, M Breunig, M Hohwieler, X Zhang, G Nair, T S
 **Communications Biology 4**, 1298 (2021).
 
 * [Mutations and variants of ONECUT1 in diabetes](https://www.nature.com/articles/s41591-021-01502-7)\
-A Philippi<sup>\#</sup>, S Heller<sup>\#</sup>, IG Costa<sup>\#</sup>, V Senée<sup>\#</sup>, M Breunig, **Z Li**, G Kwon, R Russell, A Illing, Q Lin, M Hohwieler, A Degavre, P Zalloua, S Liebau, M Schuster, J Krumm, X Zhang, R Geusz, J.R Benthuysen, A Wang, J Chiou, K Gaulton, H Neubauer, E Simon, T Klein, M Wagner, G Nair, C Besse, CD Roulland, R Olaso, J Deleuze, B Kuster, M Hebrok, T Seufferlein, M Sander, BO Boehm, F Oswald, M Nicolino<sup>\*</sup>, C Julier<sup>\*</sup>, A Kleger<sup>\*</sup>.\
+A Philippi<sup>\#</sup>, S Heller<sup>\#</sup>, IG Costa<sup>\#</sup>, V Senée<sup>\#</sup>, M Breunig, **Z Li**, G Kwon, R Russell, A Illing, Q Lin, M Hohwieler, A Degavre, P Zalloua, S Liebau, M Schuster, J Krumm, X Zhang, R Geusz, JR Benthuysen, A Wang, J Chiou, K Gaulton, H Neubauer, E Simon, T Klein, M Wagner, G Nair, C Besse, CD Roulland, R Olaso, J Deleuze, B Kuster, M Hebrok, T Seufferlein, M Sander, BO Boehm, F Oswald, M Nicolino<sup>\*</sup>, C Julier<sup>\*</sup>, A Kleger<sup>\*</sup>.\
 **Nature Medicine 27**, 1928–1940 (2021).
 
 * [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x)\
