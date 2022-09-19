@@ -12,7 +12,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
-* C. Kuppe<sup>\#</sup>, **Z. Li**<sup>\#</sup>, R. T. Levinson<sup>\#</sup>, P. B. Mompel<sup>\#</sup>, T. Lu, R. Flores, M. Halder, M. Cheng, X. Zhang, R. K. Schneider, R. Thadhani, S. Hayat, K. Lim, I. G. Costa<sup>\*</sup>, J. S. Rodriguez<sup>\*</sup>, R. Kramann<sup>\*</sup>. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure.(2022) (Submitted)
+* **Z Li<sup>\#</sup>**, C C Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa. RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data. (2022) (Submitted)
+
+* C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, R T Levinson<sup>\#</sup>, P B Mompel<sup>\#</sup>, T Lu, R Flores, M Halder, M Cheng, X Zhang, R K Schneider, R Thadhani, S Hayat, K Lim, I G Costa<sup>\*</sup>, J S Rodriguez<sup>\*</sup>, R Kramann<sup>\*</sup>. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure.(2022) (Submitted)
 
 * **Z Li**, J Nagai, C Kuppe, R Kramann, I G Costa. [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1). **BioRxiv** (2022).
 
