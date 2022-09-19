@@ -26,7 +26,7 @@ C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, R T Levinson<sup>\#</sup>, P B Momp
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
 C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, E M J Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
-**Nature** (2022).
+**Nature 608**, 766–777 (2022).
 
 * [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
 **Z Li**<sup>\#</sup>, C Kuppe<sup>\#</sup>, S Ziegler, M Cheng, N Kabgani, S Menzel, M Zenke, R Kramann<sup>\*</sup>, IG Costa<sup>\*</sup>.\
