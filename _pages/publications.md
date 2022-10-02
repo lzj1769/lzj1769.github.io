@@ -18,7 +18,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * Integrative single-cell multi-omics analysis reveals traits associated with early heart failure\
 C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, R T Levinson<sup>\#</sup>, P B Mompel<sup>\#</sup>, T Lu, R Flores, M Halder, M Cheng, X Zhang, RK Schneider, R Thadhani, S Hayat, K Lim, IG Costa<sup>\*</sup>, J S Rodriguez<sup>\*</sup>, R Kramann<sup>\*</sup>.\
-(**Submitted**) (2022).
+**Nature Genetics** (2022) (*Under review*).
 
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)\
 **Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
