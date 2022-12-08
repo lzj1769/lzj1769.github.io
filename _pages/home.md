@@ -5,9 +5,11 @@ sitemap: false
 permalink: /
 ---
 
-I will soon join the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) as a Postdoc advised by Prof. Luca Pinello. Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by Prof. Dr. Ivan G. Costa at the [Institute for Computational Genomics](http://www.costalab.org/), RWTH Aachen University.
+I will soon join the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) as a Postdoc advised by Prof. Luca Pinello working on computational methods for modeling biological data from CRISPR genome editing and single-cell experiments. 
 
-My current research interest is in appling and developing machine learning methods to analyze single cell RNA/ATAC-seq data. For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
+Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by Prof. Dr. Ivan G. Costa at the [Institute for Computational Genomics](http://www.costalab.org/), RWTH Aachen University.
+
+For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" 
 data-interval="4000" data-pause="hover" >
