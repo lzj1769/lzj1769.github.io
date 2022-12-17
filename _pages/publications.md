@@ -17,7 +17,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 (**Submitted**) (2022).
 
 * Integrative single-cell multi-omics analysis reveals traits associated with early heart failure\
-C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, R T Levinson<sup>\#</sup>, P B Mompel<sup>\#</sup>, T Lu, R Flores, M Halder, M Cheng, X Zhang, RK Schneider, R Thadhani, S Hayat, K Lim, IG Costa<sup>\*</sup>, J S Rodriguez<sup>\*</sup>, R Kramann<sup>\*</sup>.\
+C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, RT Levinson<sup>\#</sup>, PB Mompel<sup>\#</sup>, T Lu, R Flores, M Halder, M Cheng, X Zhang, RK Schneider, R Thadhani, S Hayat, K Lim, IG Costa<sup>\*</sup>, JS Rodriguez<sup>\*</sup>, R Kramann<sup>\*</sup>.\
 **Nature Genetics** (2022) (*Under review*).
 
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)\
@@ -25,7 +25,7 @@ C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, R T Levinson<sup>\#</sup>, P B Momp
 **BioRxiv** (2022).
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
-C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, E M J Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
+C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, EMJ Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
 **Nature 608**, 766–777 (2022).
 
 * [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
@@ -55,7 +55,7 @@ D Schumacher<sup>\#</sup>, M Cheng<sup>\#</sup>, C Kuppe, EM Bindels, RK Schneid
 (**Submitted**) (2022).
 
 * [Adult human kidney organoids originate from CD24+ cells and represent an advanced model for adult polycystic kidney disease](https://www.nature.com/articles/s41588-022-01202-z)\
-Y Xu<sup>\#</sup>, C Kuppe<sup>\#</sup>, JP Patón, S Hayat, J Kranz,  A T Abdallah, J Nagai, **Z Li**, F Peisker, T Saritas, M Halder, S Menzel, K Hoeft, A Kenter, H Kim, C van Roeyen, M Lehrke, J Moellmann, T Speer, EM Buhl, R Hoogenboezem, P Boor, J Jansen,  C Knopp, I Kurth, B Smeets, E Bindels, M Reinders, C Baan, J Gribnau, E Hoorn, J Steffens, T Huber, IG Costa, J Floege, RK Schneider, J Saez-Rodriguez, BS Freedman<sup>\*</sup>, R Kramann<sup>\*</sup>.\
+Y Xu<sup>\#</sup>, C Kuppe<sup>\#</sup>, JP Patón, S Hayat, J Kranz,  AT Abdallah, J Nagai, **Z Li**, F Peisker, T Saritas, M Halder, S Menzel, K Hoeft, A Kenter, H Kim, C van Roeyen, M Lehrke, J Moellmann, T Speer, EM Buhl, R Hoogenboezem, P Boor, J Jansen, C Knopp, I Kurth, B Smeets, E Bindels, M Reinders, C Baan, J Gribnau, E Hoorn, J Steffens, T Huber, IG Costa, J Floege, RK Schneider, J Saez-Rodriguez, BS Freedman<sup>\*</sup>, R Kramann<sup>\*</sup>.\
 **Nature Genetics** (2022).
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://www.biorxiv.org/content/10.1101/2022.08.11.503623v1)\
