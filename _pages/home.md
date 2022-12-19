@@ -7,7 +7,7 @@ permalink: /
 
 I am a Postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) advised by [Prof. Luca Pinello](https://main.pinellolab.partners.org/) working on computational methods for modeling biological data from CRISPR genome editing and single-cell experiments. 
 
-Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by Prof. Dr. Ivan G. Costa at the [Institute for Computational Genomics](http://www.costalab.org/), RWTH Aachen University.
+Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by [Prof. Dr. Ivan G. Costa](http://www.costalab.org/) at [RWTH Aachen University](https://www.rwth-aachen.de/).
 
 For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications).
 
