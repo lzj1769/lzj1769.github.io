@@ -27,9 +27,6 @@ lsi: false
 excerpt_separator: "\n\n"
 incremental: false
 
-# Google analytics
-google_analytics: G-YND807F927
-
 # Markdown Processing
 kramdown:
   input: GFM
