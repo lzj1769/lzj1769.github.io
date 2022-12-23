@@ -12,11 +12,11 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
-1. RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data\
+7. RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data\
 **Z Li<sup>\#</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa.\
 (**Submitted**) (2022).
 
-2. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure\
+6. Integrative single-cell multi-omics analysis reveals traits associated with early heart failure\
 C Kuppe<sup>\#</sup>, **Z Li**<sup>\#</sup>, RT Levinson<sup>\#</sup>, PB Mompel<sup>\#</sup>, T Lu, R Flores, M Halder, M Cheng, X Zhang, RK Schneider, R Thadhani, S Hayat, K Lim, IG Costa<sup>\*</sup>, JS Rodriguez<sup>\*</sup>, R Kramann<sup>\*</sup>.\
 **Nature Genetics** (2022) (*Under review*).
 
