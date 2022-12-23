@@ -17,18 +17,18 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 (**Submitted**) (2022).
 
 
-* **scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference**\
+* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)**\
 **Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
-[BioRxiv](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)
+**BioRxiv**
 
 
-* **Spatial multi-omic map of human myocardial infarction**\
+* [Spatial multi-omic map of human myocardial infarction](ttps://www.nature.com/articles/s41586-022-05060-x)\
 C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, EMJ Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
-[Nature 608, 766–777 (2022)](ttps://www.nature.com/articles/s41586-022-05060-x)
+**Nature 608, 766–777 (2022)**
 
-* **Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen**()\
+* [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
 **Z Li**<sup>\#</sup>, C Kuppe<sup>\#</sup>, S Ziegler, M Cheng, N Kabgani, S Menzel, M Zenke, R Kramann<sup>\*</sup>, IG Costa<sup>\*</sup>.\
-[Nature Communications 12, 6386 (2021)](https://www.nature.com/articles/s41467-021-26530-2)
+**Nature Communications 12, 6386 (2021)**
 
 * [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
 **Z Li**, MH Schulz, T Look, M Begemann, M Zenke, I G Costa.\
