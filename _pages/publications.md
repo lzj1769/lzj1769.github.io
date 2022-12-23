@@ -12,14 +12,14 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
-* **RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data** \
+* RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data \
 **Z Li<sup>\#</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa.\
 (**Submitted**) (2022).
 
 
-* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)**\
+* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)\
 **Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
-**BioRxiv**
+**BioRxiv** (2022).
 
 
 * [Spatial multi-omic map of human myocardial infarction](ttps://www.nature.com/articles/s41586-022-05060-x)\
