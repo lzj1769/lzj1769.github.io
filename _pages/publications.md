@@ -32,11 +32,11 @@ C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, R
 
 * [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
 **Z Li**, MH Schulz, T Look, M Begemann, M Zenke, I G Costa.\
-**Genome Biology 20**, 45 (2019).
+**Genome Biology 20, 45 (2019)**
 
 * [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159)\
 **Z Li**, J Guo, S Yang.\
-**International Journal of Wireless and Mobile Computing** (2016).
+**International Journal of Wireless and Mobile Computing (2016)**
 
 ### Contributed papers
 
