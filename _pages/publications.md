@@ -12,9 +12,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### First/co-first author papers
 
-* RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data \
+* [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://www.biorxiv.org/content/10.1101/2022.12.31.522372v1) \
 **Z Li<sup>\#</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa.\
-(**Submitted**) (2022).
+**BioRxiv** (2022).
 
 
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)\
