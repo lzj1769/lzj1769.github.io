@@ -22,7 +22,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 **BioRxiv** (2022).
 
 
-* [Spatial multi-omic map of human myocardial infarction](ttps://www.nature.com/articles/s41586-022-05060-x)\
+* [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
 C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, EMJ Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
 **Nature 608, 766–777 (2022)**
 
