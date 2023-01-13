@@ -17,9 +17,9 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 **BioRxiv** (2023).
 
 
-* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://www.biorxiv.org/content/10.1101/2022.08.10.503335v1)\
+* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
 **Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
-**BioRxiv** (2022).
+**Bioinformatics Advances** (2022).
 
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
