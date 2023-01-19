@@ -24,19 +24,19 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
 C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem18, EMJ Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
-**Nature 608, 766–777 (2022)**
+**Nature** (2022).
 
 * [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
 **Z Li**<sup>\#</sup>, C Kuppe<sup>\#</sup>, S Ziegler, M Cheng, N Kabgani, S Menzel, M Zenke, R Kramann<sup>\*</sup>, IG Costa<sup>\*</sup>.\
-**Nature Communications 12, 6386 (2021)**
+**Nature Communications** (2021).
 
 * [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
 **Z Li**, MH Schulz, T Look, M Begemann, M Zenke, I G Costa.\
-**Genome Biology 20, 45 (2019)**
+**Genome Biology** (2019).
 
 * [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159)\
 **Z Li**, J Guo, S Yang.\
-**International Journal of Wireless and Mobile Computing (2016)**
+**International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
 
@@ -54,15 +54,15 @@ M Cheng, **Z Li**, IG Costa.\
 
 * [Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation](https://www.nature.com/articles/s42003-021-02818-3)\
 S Heller, **Z Li**, Q Lin, R Geusz, M Breunig, M Hohwieler, X Zhang, G Nair, T Seufferlein, M Hebrok, M Sander, C Julier, A Kleger<sup>\*</sup>, IG Costa<sup>\*</sup>.\
-**Communications Biology 4**, 1298 (2021).
+**Communications Biology** (2021).
 
 * [Mutations and variants of ONECUT1 in diabetes](https://www.nature.com/articles/s41591-021-01502-7)\
 A Philippi<sup>\#</sup>, S Heller<sup>\#</sup>, IG Costa<sup>\#</sup>, V Senée<sup>\#</sup>, M Breunig, **Z Li**, G Kwon, R Russell, A Illing, Q Lin, M Hohwieler, A Degavre, P Zalloua, S Liebau, M Schuster, J Krumm, X Zhang, R Geusz, JR Benthuysen, A Wang, J Chiou, K Gaulton, H Neubauer, E Simon, T Klein, M Wagner, G Nair, C Besse, CD Roulland, R Olaso, J Deleuze, B Kuster, M Hebrok, T Seufferlein, M Sander, BO Boehm, F Oswald, M Nicolino<sup>\*</sup>, C Julier<sup>\*</sup>, A Kleger<sup>\*</sup>.\
-**Nature Medicine 27**, 1928–1940 (2021).
+**Nature Medicine** (2021).
 
 * [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x)\
 J Guo, **Z Li**, S Yang.\
-**Soft Computing 23**, 4113–4130 (2019).
+**Soft Computing** (2019).
 
 * [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274)\
 J Guo, **Z Li**, W Xie, H Wang.\
