@@ -7,9 +7,11 @@ permalink: /
 
 I am a Postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) advised by [Prof. Luca Pinello](https://main.pinellolab.partners.org/) working on computational methods for modeling biological data from CRISPR genome editing and single-cell experiments. 
 
-Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by [Prof. Dr. Ivan G. Costa](http://www.costalab.org/) from [RWTH Aachen University](https://www.rwth-aachen.de/). My doctroal research was focusing on computation methods for detecting transcription factor footprints using bulk ATAC-seq data and dimensionality reduction and imputation for single-cell ATAC-seq.
+Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by [Prof. Dr. Ivan G. Costa](http://www.costalab.org/) from [RWTH Aachen University](https://www.rwth-aachen.de/). During my Ph.D., I worked on detecting transcription factor footprints using bulk ATAC-seq and dimensionality reduction and imputation for single-cell ATAC-seq data.
 
-For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications). My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.pdf).
+For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications). 
+
+My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.pdf).
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" 
 data-interval="4000" data-pause="hover" >
