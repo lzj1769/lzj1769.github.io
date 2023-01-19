@@ -7,11 +7,14 @@
 
 # Site settings
 title: Zhijian Li
-email: your-email@domain.com
+email: lzj1769@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
   Website of Zhijian Li.
 baseurl: ""
 url: ""
+
+plugins:
+  - jekyll-gist
 
 include:
   - .htaccess
