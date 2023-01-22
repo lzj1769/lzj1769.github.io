@@ -33,7 +33,7 @@ My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.p
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3"  style="width: 210px" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" />
