@@ -26,16 +26,16 @@ My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.p
 
     <div class="carousel-inner" markdown="0">
         <div class="item active">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hint-atac.jpg" alt="Slide 1" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/hint-atac.jpg" alt="Slide 1" style="width: 1200px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen.jpg" alt="Slide 2" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen.jpg" alt="Slide 2" style="width: 1200px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3"  style="width: 800px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3" style="width: 1200px"/>
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" style="width: 1200px"/>
         </div>     
     </div>
 
