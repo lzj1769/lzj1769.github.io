@@ -22,7 +22,6 @@ My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.p
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <div class="carousel-inner" markdown="0">
@@ -33,7 +32,7 @@ My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.p
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scopen.jpg" alt="Slide 2" />
         </div>
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3"  style="width: 210px" />
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/scmega.jpg" alt="Slide 3"  style="width: 800px" />
         </div>
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" />
