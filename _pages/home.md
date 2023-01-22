@@ -15,6 +15,7 @@ For more details about my works, see the [publications]({{ site.url }}{{ site.ba
 
 My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.pdf).
 
+<!--
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <ol class="carousel-indicators">
         <li data-target="#carousel" data-slide-to="0" class="active"></li>
@@ -38,7 +39,7 @@ My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.p
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" />
         </div>     
     </div>
-    
+
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
     <span class="glyphicon glyphicon-chevron-left" aria-hidden="true"></span>
     <span class="sr-only">Previous</span>
@@ -51,7 +52,7 @@ My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.p
 
 </div>
 
-<!--
+
 <figure class="fourth">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Leiden.jpg" style="width: 210px">
   <img src="{{ site.url }}{{ site.baseurl }}/images/logopic/Logo_Nanofront.jpg" style="width: 110px">
