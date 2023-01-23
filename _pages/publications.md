@@ -16,6 +16,10 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 <li>[scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
 **Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
 **Bioinformatics Advances** (2023).</li>
+
+<li>[scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
+**Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
+**Bioinformatics Advances** (2023).</li>
 </ol>
 
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
