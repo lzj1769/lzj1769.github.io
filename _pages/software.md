@@ -7,6 +7,8 @@ permalink: /software/
 
 # Software
 
+* [pychromVAR](https://github.com/lzj1769/pychromVAR) pychromVAR is a python package for inferring TF variability from scATAC-seq by re-implementing the method proposed in [chromVAR](https://github.com/GreenleafLab/chromVAR).
+
 * [scMEGA](https://costalab.github.io/scMEGA/) scMEGA (Single-cell Multiomic Enhancer-based Gene regulAtory network inference) is a R package designed to infer gene regulatory network by using single cell multi-omics data.
 
 * [scOpen](https://github.com/CostaLab/scopen) scOpen is a method for single-cell open chromatin analysis via NMF modelling.
