@@ -15,6 +15,9 @@ For more details about my works, see the [publications]({{ site.url }}{{ site.ba
 
 My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.pdf).
 
+My first name Zhijian can be pronunced as Zhì-Jiān (志坚 in Chinese), watch here the [video](https://www.youtube.com/watch?v=3hE6LfUJ2ew) or lisend to the [audio](https://en-audio.howtopronounce.com/15786451205e18368020d5b.mp3).
+
+
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
     <ol class="carousel-indicators">
