@@ -11,7 +11,7 @@ permalink: /allnews.html
 
 * **Jan. 13**: Our paper scMEGA is publised in [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159). Check the tutorial [here](https://costalab.github.io/scMEGA/).
 
-* **Jan. 01**: I started my position as a Postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) working with Prof. Luca Pinello.
+* **Jan. 09**: I started my position as a Postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) working with Prof. Luca Pinello.
 
 * **Jan. 02**: New paper RGT - a toolbox for the integrative analysis of high throughput regulatory genomics data is out in [BioRxiv](https://www.biorxiv.org/content/10.1101/2022.12.31.522372v1)
 
