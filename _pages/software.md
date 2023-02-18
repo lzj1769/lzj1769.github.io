@@ -13,5 +13,5 @@ permalink: /software/
 
 * [scOpen](https://github.com/CostaLab/scopen) scOpen is a method for single-cell open chromatin analysis via NMF modelling.
 
-* [HINT-ATAC](https://reg-gen.readthedocs.io/en/latest/hint/introduction.html) HINT-ATAC (Hmm-based IdeNtification of Transcription factor footprints using ATAC-seq) is a framework that uses open chromatin data to identify the active transcription factor binding sites.
+* [RGT](https://reg-gen.readthedocs.io/en/latest/hint/introduction.html) RGT is a Python package for integrative analysis of regulatory genomics data, including HINT-ATAC for prediction of transcription factor binding sites using ATAC-seq, THOR for identification of differential peaks from ChIP-seq, TDF for detection of triple helix mediated RNA and DNA interactions, Motif-analysis for performing operations related to motif analyses visualization, and RGT-viz for finding and visualizing association between distinct regulatory factors.
 
