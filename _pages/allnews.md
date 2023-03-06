@@ -9,6 +9,8 @@ permalink: /allnews.html
 
 ### 2023
 
+* **Mar. 06**: RGT is publised in [BMC Bioinformatics](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5). 
+ 
 * **Jan. 13**: Our paper scMEGA is publised in [Bioinformatics Advances](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159). Check the tutorial [here](https://costalab.github.io/scMEGA/).
 
 * **Jan. 09**: I started my position as a Postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) working with Prof. Luca Pinello.
