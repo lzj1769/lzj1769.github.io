@@ -10,7 +10,7 @@ permalink: /publications/
 For a full list see: [Google Scholar](https://scholar.google.de/citations?user=xG5HYekAAAAJ&hl=en)  
 <sup>\#</sup> Co-first authors; <sup>\*</sup> Co-corresponding authors
 
-### First/co-first author papers
+### Selected papers
 
 * [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
 **Z Li<sup>\#\*</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa<sup>\*</sup>.\
