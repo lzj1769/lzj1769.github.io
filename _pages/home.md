@@ -7,12 +7,11 @@ permalink: /
 
 I am a Postdoc at the [Broad Institute of MIT and Harvard](https://www.broadinstitute.org/) advised by [Prof. Luca Pinello](https://main.pinellolab.partners.org/) working on computational methods for modeling biological data from CRISPR genome editing, single-cell and spatial omics experiments. 
 
-Prior to that, I obtained my Doctor rerum naturalium (Dr. rer. nat., equivalent to the PhD) supervised by [Prof. Dr. Ivan G. Costa](http://www.costalab.org/) from [RWTH Aachen University](https://www.rwth-aachen.de/) in Germany. 
+Prior to that, I obtained my PhD supervised by [Prof. Dr. Ivan G. Costa](http://www.costalab.org/) from [RWTH Aachen University](https://www.rwth-aachen.de/) in Germany. 
 
-For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications). And my CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.pdf).
+For more details about my works, see the [publications]({{ site.url }}{{ site.baseurl }}/publications). My CV is found [here]({{ site.url }}{{ site.baseurl }}/downloads/CV_Zhijian_Li.pdf).
 
 My first name can be pronunced as Zhì-Jiān (志坚 in Chinese), watch here the [video](https://www.youtube.com/watch?v=3hE6LfUJ2ew) or listen to the [audio](https://en-audio.howtopronounce.com/15786451205e18368020d5b.mp3).
-
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="4000" data-pause="hover">
