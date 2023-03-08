@@ -20,7 +20,6 @@ My first name can be pronunced as Zhì-Jiān (志坚 in Chinese), watch here the
         <li data-target="#carousel" data-slide-to="1"></li>
         <li data-target="#carousel" data-slide-to="2"></li>
         <li data-target="#carousel" data-slide-to="3"></li>
-        <li data-target="#carousel" data-slide-to="4"></li>
     </ol>
 
     <div class="carousel-inner" markdown="0">
@@ -36,9 +35,6 @@ My first name can be pronunced as Zhì-Jiān (志坚 in Chinese), watch here the
         <div class="item">
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" style="width: 1200px"/>
         </div>     
-        <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/rgt.jpg" alt="Slide 5" style="width: 600px"/>
-        </div>  
     </div>
 
   <a class="left carousel-control" href="#carousel" role="button" data-slide="prev">
