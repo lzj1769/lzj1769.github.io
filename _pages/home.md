@@ -37,7 +37,7 @@ My first name can be pronunced as Zhì-Jiān (志坚 in Chinese), watch here the
             <img src="{{ site.url }}{{ site.baseurl }}/images/slider/grn.jpg" alt="Slide 4" style="width: 1200px"/>
         </div>     
         <div class="item">
-            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/rgt.jpg" alt="Slide 4" style="width: 1200px"/>
+            <img src="{{ site.url }}{{ site.baseurl }}/images/slider/rgt.jpg" alt="Slide 5" style="width: 1200px"/>
         </div>  
     </div>
 
