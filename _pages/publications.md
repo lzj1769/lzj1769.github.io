@@ -39,9 +39,9 @@ C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, R
 
 ### Contributed papers
 
-* [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://www.biorxiv.org/content/10.1101/2022.08.11.503623v1)\
+* [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://elifesciences.org/articles/83342)\
 H Xu, **Z Li**, CC Kuo, K Götz, T Look, MAS de Toledo, K Seré, IG Costa, M Zenke.\
-**BioRxiv** (2022).
+**eLife** (2023).
 
 * [Adult human kidney organoids originate from CD24+ cells and represent an advanced model for adult polycystic kidney disease](https://www.nature.com/articles/s41588-022-01202-z)\
 Y Xu<sup>\#</sup>, C Kuppe<sup>\#</sup>, JP Patón, S Hayat, J Kranz,  AT Abdallah, J Nagai, **Z Li**, F Peisker, T Saritas, M Halder, S Menzel, K Hoeft, A Kenter, H Kim, C van Roeyen, M Lehrke, J Moellmann, T Speer, EM Buhl, R Hoogenboezem, P Boor, J Jansen, C Knopp, I Kurth, B Smeets, E Bindels, M Reinders, C Baan, J Gribnau, E Hoorn, J Steffens, T Huber, IG Costa, J Floege, RK Schneider, J Saez-Rodriguez, BS Freedman<sup>\*</sup>, R Kramann<sup>\*</sup>.\
