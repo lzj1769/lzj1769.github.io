@@ -25,7 +25,7 @@ permalink: /allnews.html
 
 * **Aug. 10**: Our paper Spatial multi-omic map of human myocardial infarction is out in [Nature](https://www.nature.com/articles/s41586-022-05060-x) and I sucessfully defended my Ph.D. thesis.
 
-* **Jul. 19**: I was awarded the Chinese Government Award for Outstanding Self-financed Students Abroad, see [here](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad) for more info about it.
+* **Jul. 19**: I was awarded the Chinese Government Award for Outstanding Self-financed Students Abroad [Chinese Title: 国家优秀自费留学生奖学金]. See [here](https://en.wikipedia.org/wiki/Chinese_government_award_for_outstanding_self-financed_students_abroad) for more info about it.
 
 * **Jun. 28**: New paper MOJITOO is out in [Bioinformatics](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520).
 
