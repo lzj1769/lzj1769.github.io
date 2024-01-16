@@ -21,13 +21,10 @@ Benchmarking computational methods to identify spatially variable genes and peak
 **BMC Bioinformatics 24**, 79 (2023). 
 [paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5)
 
-<!-- * [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
-**Z Li<sup>\#\*</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa<sup>\*</sup>.\
-**BMC Bioinformatics 24**, 79 (2023). -->
 
-* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
-**Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
-**Bioinformatics Advances** (2023).
+* **Zhijian Li**, James S Nagai, Christoph Kuppe, Rafael Kramann, Ivan G Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference.
+**Bioinformatics Advances 3**, vbad003 (2023). 
+[paper](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)
 
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
