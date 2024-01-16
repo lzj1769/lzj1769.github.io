@@ -12,19 +12,17 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Selected papers
 
-* **Zhijian Li**, Zain M.Patel, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. 
-Benchmarking computational methods to identify spatially variable genes and peaks. Biorxiv (2023). 
-[paper](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) 
+* [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \ 
+**Zhijian Li**, Zain M.Patel, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
+Biorxiv(2023). 
 
+* [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
+**Z Li<sup>\#\*</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa<sup>\*</sup>.\
+**BMC Bioinformatics 24**, 79 (2023).
 
-* **Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke and Ivan G. Costa<sup>\*</sup>. RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data.
-**BMC Bioinformatics 24**, 79 (2023). 
-[paper](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5)
-
-
-* **Zhijian Li**, James S Nagai, Christoph Kuppe, Rafael Kramann, Ivan G Costa. scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference.
-**Bioinformatics Advances 3**, vbad003 (2023). 
-[paper](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)
+* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
+**Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
+**Bioinformatics Advances** (2023).
 
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
