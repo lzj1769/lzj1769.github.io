@@ -13,7 +13,8 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 ### Selected papers
 
 
-* **Zhijian Li**, Zain M.Patel, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. Benchmarking computational methods to identify spatially variable genes and peaks. (2023). 
+* **Zhijian Li**, Zain M.Patel, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
+Benchmarking computational methods to identify spatially variable genes and peaks. Biorxiv. (2023). [paper](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) 
 
 * [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
 **Z Li<sup>\#\*</sup>**, CC Kuo<sup>\#</sup>, F Ticconi, M Shaigan, E G Gusmao, M Allhoff, M Manolov, M Zenke, I G Costa<sup>\*</sup>.\
