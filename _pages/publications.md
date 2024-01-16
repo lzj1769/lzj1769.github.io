@@ -12,7 +12,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Selected papers
 
-* [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \ 
+* [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
 **Zhijian Li**, Zain M.Patel, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
 Biorxiv(2023). 
 
