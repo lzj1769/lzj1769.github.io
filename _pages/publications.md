@@ -43,9 +43,9 @@ C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, R
 
 ### Contributed papers
 
-* [Joint genotypic and phenotypic outcome modeling improves base editing variant effect quantification](https://www.medrxiv.org/content/10.1101/2023.09.08.23295253v1) \
+* [Joint genotypic and phenotypic outcome modeling improves base editing variant effect quantification](https://www.nature.com/articles/s41588-024-01726-6) \
 Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Francoeur, Quang Vinh Phan, **Zhijian Li**, Manuel Tognon, Lara Brown, Michael I. Love, Guillaume Lettre, David B. Ascher, Christopher A. Cassa, Richard I. Sherwood, Luca Pinello
-**medRxiv** (2023).
+**Nature Genetics** (2024).
 
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://elifesciences.org/articles/83342)\
