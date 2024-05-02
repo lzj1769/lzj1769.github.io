@@ -49,15 +49,16 @@ Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Franco
 
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://elifesciences.org/articles/83342)\
-H Xu, **Z Li**, CC Kuo, K Götz, T Look, MAS de Toledo, K Seré, IG Costa, M Zenke.\
+Huaming Xu, **Zhijian Li**, Chao-Chung Kuo, Katrin Götz, 
+Thomas Look, Marcelo AS de Toledo, Kristin Seré, Ivan G Costa, Martin Zenke.\
 **eLife** (2023).
 
 * [Adult human kidney organoids originate from CD24+ cells and represent an advanced model for adult polycystic kidney disease](https://www.nature.com/articles/s41588-022-01202-z)\
-Y Xu<sup>\#</sup>, C Kuppe<sup>\#</sup>, JP Patón, S Hayat, J Kranz,  AT Abdallah, J Nagai, **Z Li**, F Peisker, T Saritas, M Halder, S Menzel, K Hoeft, A Kenter, H Kim, C van Roeyen, M Lehrke, J Moellmann, T Speer, EM Buhl, R Hoogenboezem, P Boor, J Jansen, C Knopp, I Kurth, B Smeets, E Bindels, M Reinders, C Baan, J Gribnau, E Hoorn, J Steffens, T Huber, IG Costa, J Floege, RK Schneider, J Saez-Rodriguez, BS Freedman<sup>\*</sup>, R Kramann<sup>\*</sup>.\
-**Nature Genetics** (2022).
+Yaoxian Xu<sup>\#</sup>, Christoph Kuppe<sup>\#</sup>, Javier Perales-Patón, Sikander Hayat, Jennifer Kranz, Ali T. Abdallah, James Nagai, **Zhijian Li**, Fabian Peisker, Turgay Saritas, Maurice Halder, Sylvia Menzel, Konrad Hoeft, Annegien Kenter, Hyojin Kim, Claudia R. C. van Roeyen, Michael Lehrke, Julia Moellmann, Thimoteus Speer, Eva M. Buhl, Remco Hoogenboezem, Peter Boor, Jitske Jansen, Cordula Knopp, Ingo Kurth, Bart Smeets, Eric Bindels, Marlies E. J. Reinders, Carla Baan, Joost Gribnau, Ewout J. Hoorn, Joachim Steffens, Tobias B. Huber, Ivan Costa, Jürgen Floege, Rebekka K. Schneider, Julio Saez-Rodriguez, Benjamin S. Freedman, Rafael Kramann \
+**Nature Genetics 54**, 1690–1701 (2022).
 
 * [MOJITOO: a fast and universal method for integration of multimodal single cell data](https://academic.oup.com/bioinformatics/article/38/Supplement_1/i282/6617520)\
-M Cheng, **Z Li**, IG Costa.\
+Mingbo Cheng, **Zhijian Li**, Ivan G Costa \
 **Bioinformatics** (2022).
 
 * [Transcriptional changes and the role of ONECUT1 in hPSC pancreatic differentiation](https://www.nature.com/articles/s42003-021-02818-3)\
