@@ -20,14 +20,14 @@ Biorxiv(2023).
 **Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#\*</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke, Ivan G. Costa<sup>\*</sup> \
 **BMC Bioinformatics 24**, 79 (2023).
 
-* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false)\
-**Z Li**, J Nagai, C Kuppe, R Kramann, IG Costa.\
+* [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false) \
+**Zhijian Li**, James S Nagai, Christoph Kuppe, Rafael Kramann, Ivan G. Costa \
 **Bioinformatics Advances** (2023).
 
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
-C Kuppe<sup>\#</sup>, ROR Flores<sup>\#</sup>, **Z Li<sup>\#</sup>**, S Hayat, RT Levinson, X Liao, MT Hannani, J Tanevski, F Wünnemann, J Nagai, M Halder, D Schumacher, S Menzel, G Schäfer, K Hoeft, M Cheng, S Ziegler, X Zhang, F Peisker, N Kaesler, T Saritas, Y Xu, A Kassner, J Gummert, M Morshuis, J Amrute, RJA Veltrop, P Boor, K Klingel, LW Van Laake, A Vink, RM Hoogenboezem, EMJ Bindels, L Schurgers, S Sattler, D Schapiro, RK Schneider, K Lavine, H Milting<sup>\*</sup>, IG Costa<sup>\*</sup>, J Saez-Rodriguez<sup>\*</sup> and R Kramann<sup>\*</sup>.\
-**Nature** (2022).
+Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Sikander Hayat, Rebecca T. Levinson, Xian Liao, Monica T. Hannani, Jovan Tanevski, Florian Wünnemann, James S. Nagai, Maurice Halder, David Schumacher, Sylvia Menzel, Gideon Schäfer, Konrad Hoeft, Mingbo Cheng, Susanne Ziegler, Xiaoting Zhang, Fabian Peisker, Nadine Kaesler, Turgay Saritas, Yaoxian Xu, Astrid Kassner, Jan Gummert, Michiel Morshuis, Junedh Amrute, Rogier J. A. Veltrop, Peter Boor, Karin Klingel, Linda W. Van Laake, Aryan Vink, Remco M. Hoogenboezem, Eric M. J. Bindels, Leon Schurgers, Susanne Sattler, Denis Schapiro, Rebekka K. Schneider, Kory Lavine, Hendrik Milting<sup>\*</sup>, Ivan G. Costa<sup>\*</sup>, Julio Saez-Rodriguez<sup>\*</sup>, Rafael Kramann<sup>\*</sup> \
+**Nature 608** 766–777 (2022).
 
 * [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
 **Z Li**<sup>\#</sup>, C Kuppe<sup>\#</sup>, S Ziegler, M Cheng, N Kabgani, S Menzel, M Zenke, R Kramann<sup>\*</sup>, IG Costa<sup>\*</sup>.\
