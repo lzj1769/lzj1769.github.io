@@ -13,11 +13,11 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 ### Selected papers
 
 * [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
-**Zhijian Li**, Zain M.Patel, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
+**Zhijian Li<sup>\#</sup>**, Zain M.Patel<sup>\#</sup>, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
 Biorxiv(2023). 
 
 * [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
-**Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#\*</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke, Ivan G. Costa<sup>\*</sup> \
+**Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke, Ivan G. Costa<sup>\*</sup> \
 **BMC Bioinformatics 24**, 79 (2023).
 
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false) \
@@ -30,15 +30,15 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 **Nature 608** 766–777 (2022).
 
 * [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
-**Z Li**<sup>\#</sup>, C Kuppe<sup>\#</sup>, S Ziegler, M Cheng, N Kabgani, S Menzel, M Zenke, R Kramann<sup>\*</sup>, IG Costa<sup>\*</sup>.\
-**Nature Communications** (2021).
+**Zhijian Li<sup>\#</sup>**, Christoph Kuppe<sup>\#</sup>, Susanne Ziegler, Mingbo Cheng, Nazanin Kabgani, Sylvia Menzel, Martin Zenke, Rafael Kramann<sup>\*</sup> & Ivan G. Costa<sup>\*</sup> \
+**Nature Communications 12** (2021).
 
 * [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
-**Z Li**, MH Schulz, T Look, M Begemann, M Zenke, I G Costa.\
-**Genome Biology** (2019).
+**Zhijian Li**, Marcel H. Schulz, Thomas Look, Matthias Begemann, Martin Zenke & Ivan G. Costa \
+**Genome Biology 20** (2019).
 
 * [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159)\
-**Z Li**, J Guo, S Yang.\
+**Zhijian Li**, Jinglei Guo and Shengxiang Yang\
 **International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
