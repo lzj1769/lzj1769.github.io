@@ -22,23 +22,23 @@ Biorxiv(2023).
 
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false) \
 **Zhijian Li**, James S Nagai, Christoph Kuppe, Rafael Kramann, Ivan G. Costa \
-**Bioinformatics Advances** (2023).
+**Bioinformatics Advances**, (2023).
 
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
 Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Sikander Hayat, Rebecca T. Levinson, Xian Liao, Monica T. Hannani, Jovan Tanevski, Florian Wünnemann, James S. Nagai, Maurice Halder, David Schumacher, Sylvia Menzel, Gideon Schäfer, Konrad Hoeft, Mingbo Cheng, Susanne Ziegler, Xiaoting Zhang, Fabian Peisker, Nadine Kaesler, Turgay Saritas, Yaoxian Xu, Astrid Kassner, Jan Gummert, Michiel Morshuis, Junedh Amrute, Rogier J. A. Veltrop, Peter Boor, Karin Klingel, Linda W. Van Laake, Aryan Vink, Remco M. Hoogenboezem, Eric M. J. Bindels, Leon Schurgers, Susanne Sattler, Denis Schapiro, Rebekka K. Schneider, Kory Lavine, Hendrik Milting<sup>\*</sup>, Ivan G. Costa<sup>\*</sup>, Julio Saez-Rodriguez<sup>\*</sup>, Rafael Kramann<sup>\*</sup> \
-**Nature 608** 766–777 (2022).
+**Nature 608**, 766–777 (2022).
 
 * [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
-**Zhijian Li<sup>\#</sup>**, Christoph Kuppe<sup>\#</sup>, Susanne Ziegler, Mingbo Cheng, Nazanin Kabgani, Sylvia Menzel, Martin Zenke, Rafael Kramann<sup>\*</sup> & Ivan G. Costa<sup>\*</sup> \
-**Nature Communications 12** (2021).
+**Zhijian Li<sup>\#</sup>**, Christoph Kuppe<sup>\#</sup>, Susanne Ziegler, Mingbo Cheng, Nazanin Kabgani, Sylvia Menzel, Martin Zenke, Rafael Kramann<sup>\*</sup>, Ivan G. Costa<sup>\*</sup> \
+**Nature Communications 12**, (2021).
 
 * [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
-**Zhijian Li**, Marcel H. Schulz, Thomas Look, Matthias Begemann, Martin Zenke & Ivan G. Costa \
-**Genome Biology 20** (2019).
+**Zhijian Li**, Marcel H. Schulz, Thomas Look, Matthias Begemann, Martin Zenke, Ivan G. Costa \
+**Genome Biology 20**, (2019).
 
 * [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159)\
-**Zhijian Li**, Jinglei Guo and Shengxiang Yang\
+**Zhijian Li**, Jinglei Guo, Shengxiang Yang\
 **International Journal of Wireless and Mobile Computing** (2016).
 
 ### Contributed papers
