@@ -66,13 +66,13 @@ Sandra Heller, **Zhijian Li**, Qiong Lin, Ryan Geusz, Markus Breunig, Meike Hohw
 **Communications Biology 4**, (2021).
 
 * [Mutations and variants of ONECUT1 in diabetes](https://www.nature.com/articles/s41591-021-01502-7)\
-A Philippi<sup>\#</sup>, S Heller<sup>\#</sup>, IG Costa<sup>\#</sup>, V Senée<sup>\#</sup>, M Breunig, **Z Li**, G Kwon, R Russell, A Illing, Q Lin, M Hohwieler, A Degavre, P Zalloua, S Liebau, M Schuster, J Krumm, X Zhang, R Geusz, JR Benthuysen, A Wang, J Chiou, K Gaulton, H Neubauer, E Simon, T Klein, M Wagner, G Nair, C Besse, CD Roulland, R Olaso, J Deleuze, B Kuster, M Hebrok, T Seufferlein, M Sander, BO Boehm, F Oswald, M Nicolino<sup>\*</sup>, C Julier<sup>\*</sup>, A Kleger<sup>\*</sup>.\
-**Nature Medicine** (2021).
+Anne Philippi<sup>\#</sup>, Sandra Heller<sup>\#</sup>, Ivan G. Costa<sup>\#</sup>, Valérie Senée<sup>\#</sup>, Markus Breunig, **Zhijian Li**, Gino Kwon, Ronan Russell, Anett Illing, Qiong Lin, Meike Hohwieler, Anne Degavre, Pierre Zalloua, Stefan Liebau, Michael Schuster, Johannes Krumm, Xi Zhang, Ryan Geusz, Jacqueline R. Benthuysen, Allen Wang, Joshua Chiou, Kyle Gaulton, Heike Neubauer, Eric Simon, Thomas Klein, Martin Wagner, Gopika Nair, Céline Besse, Claire Dandine-Roulland, Robert Olaso, Jean-François Deleuze, Bernhard Kuster, Matthias Hebrok, Thomas Seufferlein, Maike Sander, Bernhard O. Boehm, Franz Oswald, Marc Nicolino<sup>\*</sup>, Cécile Julier<sup>\*</sup>, Alexander Kleger<sup>\*</sup>. \
+**Nature Medicine 27**, 1928–1940 (2021).
 
 * [Accelerating differential evolution based on a subset-to-subset survivor selection operator](https://link.springer.com/article/10.1007/s00500-018-3060-x)\
-J Guo, **Z Li**, S Yang.\
+Jinglei Guo, **Zhijian Li**, Shengxiang Yang.\
 **Soft Computing** (2019).
 
 * [Dissipative differential evolution with self-adaptive control parameters](https://ieeexplore.ieee.org/abstract/document/7257274)\
-J Guo, **Z Li**, W Xie, H Wang.\
+Jinglei Guo, **Zhijian Li**, Wei Xie, Hui Wang.\
 **IEEE Congress on Evolutionary Computation** (2015).
