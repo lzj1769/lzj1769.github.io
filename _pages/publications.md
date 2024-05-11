@@ -48,7 +48,7 @@ Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Franco
 **Nature Genetics** (2024).
 
 * [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
-Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>.
+Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \\
 **Cellular and Molecular Life Sciences 81**, 1-16 (2024).
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://elifesciences.org/articles/83342)\
