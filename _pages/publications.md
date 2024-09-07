@@ -12,6 +12,10 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Selected papers
 
+* [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
+Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \\
+**Cellular and Molecular Life Sciences 81**, 1-16 (2024).
+
 * [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
 **Zhijian Li<sup>\#</sup>**, Zain M.Patel<sup>\#</sup>, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
 Biorxiv(2023). 
@@ -41,15 +45,15 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 **Zhijian Li**, Jinglei Guo, Shengxiang Yang.\
 **International Journal of Wireless and Mobile Computing** (2016).
 
+
 ### Contributed papers
+
+* [Deciphering the impact of genomic variation on function](https://www.nature.com/articles/s41586-024-07510-0)\
+IGVF Consortium. **Nature** (2024).
 
 * [Joint genotypic and phenotypic outcome modeling improves base editing variant effect quantification](https://www.nature.com/articles/s41588-024-01726-6) \
 Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Francoeur, Quang Vinh Phan, **Zhijian Li**, Manuel Tognon, Lara Brown, Michael I. Love, Guillaume Lettre, David B. Ascher, Christopher A. Cassa, Richard I. Sherwood, Luca Pinello.
 **Nature Genetics** (2024).
-
-* [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
-Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \\
-**Cellular and Molecular Life Sciences 81**, 1-16 (2024).
 
 * [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://elifesciences.org/articles/83342)\
 Huaming Xu, **Zhijian Li**, Chao-Chung Kuo, Katrin Götz, 
