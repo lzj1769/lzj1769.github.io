@@ -49,7 +49,8 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 ### Contributed papers
 
 * [Deciphering the impact of genomic variation on function](https://www.nature.com/articles/s41586-024-07510-0)\
-IGVF Consortium. **Nature** (2024).
+IGVF Consortium. \
+**Nature** (2024).
 
 * [Joint genotypic and phenotypic outcome modeling improves base editing variant effect quantification](https://www.nature.com/articles/s41588-024-01726-6) \
 Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Francoeur, Quang Vinh Phan, **Zhijian Li**, Manuel Tognon, Lara Brown, Michael I. Love, Guillaume Lettre, David B. Ascher, Christopher A. Cassa, Richard I. Sherwood, Luca Pinello.
