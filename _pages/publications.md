@@ -12,6 +12,10 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Selected papers
 
+* [Deaminase-mediated chromatin accessibility profiling with single-allele resolution](https://www.biorxiv.org/content/10.1101/2024.12.17.628768v1.abstract)\
+Tian Yu, Zhijian Li, Ellie Gibbs, Reina Iwase, Matthew J Francoeur, Quang vinh Phan, Jing Zhao, Jane Rosin, Phillip A Cole, Luca Pinello, Richard I Sherwood \
+Biorxiv(2024).
+
 * [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
 Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \\
 **Cellular and Molecular Life Sciences 81**, 1-16 (2024).
@@ -27,7 +31,6 @@ Biorxiv(2023).
 * [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false) \
 **Zhijian Li**, James S Nagai, Christoph Kuppe, Rafael Kramann, Ivan G. Costa. \
 **Bioinformatics Advances**, (2023).
-
 
 * [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
 Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Sikander Hayat, Rebecca T. Levinson, Xian Liao, Monica T. Hannani, Jovan Tanevski, Florian Wünnemann, James S. Nagai, Maurice Halder, David Schumacher, Sylvia Menzel, Gideon Schäfer, Konrad Hoeft, Mingbo Cheng, Susanne Ziegler, Xiaoting Zhang, Fabian Peisker, Nadine Kaesler, Turgay Saritas, Yaoxian Xu, Astrid Kassner, Jan Gummert, Michiel Morshuis, Junedh Amrute, Rogier J. A. Veltrop, Peter Boor, Karin Klingel, Linda W. Van Laake, Aryan Vink, Remco M. Hoogenboezem, Eric M. J. Bindels, Leon Schurgers, Susanne Sattler, Denis Schapiro, Rebekka K. Schneider, Kory Lavine, Hendrik Milting<sup>\*</sup>, Ivan G. Costa<sup>\*</sup>, Julio Saez-Rodriguez<sup>\*</sup>, Rafael Kramann<sup>\*</sup>. \
@@ -47,6 +50,14 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 
 ### Contributed papers
+
+* [CREB determines the expression of ST2 in Tregs and mediates the balance between type 1 and type 2 immune responses](https://www.biorxiv.org/content/10.1101/2024.06.29.601312v1.abstract)\
+Sudheendra Hebbar Subramanyam, Judit Hriczko, Thomas Look, Tannaz Goodarzi, Tim Clarner, Eva Verjans, Svenja Boell, Christopher Neullens, Ivan Costa, **Zhijian Li**, Lin Gan, Bernd Denecke, Angela Schippers, Stefan Floess, Jochen Huehn, Edgar Schmitt, Tobias Bopp, Hermann Wasmuth, Ron Winograd, Rudi Beyaert, Bart Lambrecht, Peter Boor, Martin Zenke, Norbert Wagner, Kim Ohl, Klaus Tenbrock \
+Biorxiv(2024).
+
+* [PHLOWER-Single cell trajectory analysis using Decomposition of the Hodge Laplacian](https://www.biorxiv.org/content/10.1101/2024.10.01.613179v1.abstract)\
+Mingbo Cheng, Jitske Jansen, Katharina Reimer, James Shiniti Nagai, **Zhijian Li**, Paul Kiessling, Martin Grasshoff, Christoph Kuppe, Michael Schaub, Rafael Kramann, Ivan Gesteira Costa Filho\
+Biorxiv(2024).
 
 * [Deciphering the impact of genomic variation on function](https://www.nature.com/articles/s41586-024-07510-0)\
 IGVF Consortium. \
