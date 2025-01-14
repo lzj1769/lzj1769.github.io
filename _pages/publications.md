@@ -13,8 +13,8 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 ### Selected papers
 
 * [Deaminase-mediated chromatin accessibility profiling with single-allele resolution](https://www.biorxiv.org/content/10.1101/2024.12.17.628768v1.abstract)\
-Tian Yu, Zhijian Li, Ellie Gibbs, Reina Iwase, Matthew J Francoeur, Quang vinh Phan, Jing Zhao, Jane Rosin, Phillip A Cole, Luca Pinello, Richard I Sherwood \
-Biorxiv(2024).
+Tian Yu<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Ellie Gibbs<sup>\#</sup>, Reina Iwase, Matthew J Francoeur, Quang vinh Phan, Jing Zhao, Jane Rosin, Phillip A Cole, Luca Pinello<sup>\*</sup>, Richard I Sherwood<sup>\*</sup> \
+**Biorxiv** (2024).
 
 * [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
 Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \\
@@ -22,7 +22,7 @@ Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian
 
 * [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
 **Zhijian Li<sup>\#</sup>**, Zain M.Patel<sup>\#</sup>, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
-Biorxiv(2023). 
+**Biorxiv** (2023). 
 
 * [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
 **Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke, Ivan G. Costa<sup>\*</sup>. \
@@ -53,11 +53,11 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 * [CREB determines the expression of ST2 in Tregs and mediates the balance between type 1 and type 2 immune responses](https://www.biorxiv.org/content/10.1101/2024.06.29.601312v1.abstract)\
 Sudheendra Hebbar Subramanyam, Judit Hriczko, Thomas Look, Tannaz Goodarzi, Tim Clarner, Eva Verjans, Svenja Boell, Christopher Neullens, Ivan Costa, **Zhijian Li**, Lin Gan, Bernd Denecke, Angela Schippers, Stefan Floess, Jochen Huehn, Edgar Schmitt, Tobias Bopp, Hermann Wasmuth, Ron Winograd, Rudi Beyaert, Bart Lambrecht, Peter Boor, Martin Zenke, Norbert Wagner, Kim Ohl, Klaus Tenbrock \
-Biorxiv(2024).
+**Biorxiv** (2024).
 
 * [PHLOWER-Single cell trajectory analysis using Decomposition of the Hodge Laplacian](https://www.biorxiv.org/content/10.1101/2024.10.01.613179v1.abstract)\
 Mingbo Cheng, Jitske Jansen, Katharina Reimer, James Shiniti Nagai, **Zhijian Li**, Paul Kiessling, Martin Grasshoff, Christoph Kuppe, Michael Schaub, Rafael Kramann, Ivan Gesteira Costa Filho\
-Biorxiv(2024).
+**Biorxiv** (2024).
 
 * [Deciphering the impact of genomic variation on function](https://www.nature.com/articles/s41586-024-07510-0)\
 IGVF Consortium. \
