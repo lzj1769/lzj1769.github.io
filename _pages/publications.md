@@ -5,53 +5,52 @@ sitemap: false
 permalink: /publications/
 ---
 
-# Publications
+## Publications
 
 For a full list see: [Google Scholar](https://scholar.google.de/citations?user=xG5HYekAAAAJ&hl=en)  
-^#^ Co-first authors; ^*^ Co-corresponding authors
+<sup>#</sup> Co-first authors; <sup>*</sup> Co-corresponding authors
 
 ### Selected papers
 
-10. [Mapping spatially-resolved transcriptomes in systemic sclerosis](https://www.biorxiv.org/content/10.1101/2025.01.14.632962v1)\
-**Zhijian Li**, Aleix Rius Rigau, Wenjie Xie, Xiaohang Shao, Yi-Nan Li, Alexandru Emil Matei, Hejian Zou, Luca Pinello, Jorg H.W. Distler<sup>\*</sup>, Rui He<sup>\*</sup>, Minrui Liang<sup>\*</sup> \
-**Biorxiv** (2025).
+10. [Spatial multi-omics decipher fibroblast-macrophage dynamics in systemic sclerosis](https://www.biorxiv.org/content/10.1101/2025.01.14.632962v1)\
+**Zhijian Li**, Aleix Rius Rigau, Wenjie Xie, Linlin Huang, Wenjing Ye, Yi-Nan Li, Alexandru-Emil Matei, Christina Bergmann, Xiaohang Shao, Hejian Zou, Jiucun Wang, Luca Pinello, Jörg H.W. Distler<sup>\*</sup>, Rui He<sup>\*</sup>, and Minrui Liang<sup>\*</sup> \
+**Annals of the Rheumatic Diseases** (2025). (Accepted).
 
-9. [Deaminase-mediated chromatin accessibility profiling with single-allele resolution](https://www.biorxiv.org/content/10.1101/2024.12.17.628768v1.abstract)\
+1. [Deaminase-mediated chromatin accessibility profiling with single-allele resolution](https://www.biorxiv.org/content/10.1101/2024.12.17.628768v1.abstract)\
 Tian Yu<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Ellie Gibbs<sup>\#</sup>, Reina Iwase, Matthew J Francoeur, Quang vinh Phan, Jing Zhao, Jane Rosin, Phillip A Cole, Luca Pinello<sup>\*</sup>, Richard I Sherwood<sup>\*</sup> \
 **Biorxiv** (2024).
 
-8. [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
+1. [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
 Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \
 **Cellular and Molecular Life Sciences 81**, 1-16 (2024).
 
-7. [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
+1. [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
 **Zhijian Li<sup>\#</sup>**, Zain M.Patel<sup>\#</sup>, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
 **Biorxiv** (2023). 
 
-6. [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
+1. [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
 **Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke, Ivan G. Costa<sup>\*</sup>. \
 **BMC Bioinformatics 24**, 79 (2023).
 
-5. [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false) \
+1. [scMEGA: Single-cell Multiomic Enhancer-based Gene Regulatory Network Inference](https://academic.oup.com/bioinformaticsadvances/advance-article/doi/10.1093/bioadv/vbad003/6986159?login=false) \
 **Zhijian Li**, James S Nagai, Christoph Kuppe, Rafael Kramann, Ivan G. Costa. \
 **Bioinformatics Advances**, (2023).
 
-4. [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
+1. [Spatial multi-omic map of human myocardial infarction](https://www.nature.com/articles/s41586-022-05060-x)\
 Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Sikander Hayat, Rebecca T. Levinson, Xian Liao, Monica T. Hannani, Jovan Tanevski, Florian Wünnemann, James S. Nagai, Maurice Halder, David Schumacher, Sylvia Menzel, Gideon Schäfer, Konrad Hoeft, Mingbo Cheng, Susanne Ziegler, Xiaoting Zhang, Fabian Peisker, Nadine Kaesler, Turgay Saritas, Yaoxian Xu, Astrid Kassner, Jan Gummert, Michiel Morshuis, Junedh Amrute, Rogier J. A. Veltrop, Peter Boor, Karin Klingel, Linda W. Van Laake, Aryan Vink, Remco M. Hoogenboezem, Eric M. J. Bindels, Leon Schurgers, Susanne Sattler, Denis Schapiro, Rebekka K. Schneider, Kory Lavine, Hendrik Milting<sup>\*</sup>, Ivan G. Costa<sup>\*</sup>, Julio Saez-Rodriguez<sup>\*</sup>, Rafael Kramann<sup>\*</sup>. \
 **Nature 608**, 766–777 (2022).
 
-3. [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
+1. [Chromatin-accessibility estimation of single-cell ATAC-seq data with scOpen](https://www.nature.com/articles/s41467-021-26530-2)\
 **Zhijian Li<sup>\#</sup>**, Christoph Kuppe<sup>\#</sup>, Susanne Ziegler, Mingbo Cheng, Nazanin Kabgani, Sylvia Menzel, Martin Zenke, Rafael Kramann<sup>\*</sup>, Ivan G. Costa<sup>\*</sup>. \
 **Nature Communications 12**, (2021).
 
-2. [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
+1. [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
 **Zhijian Li**, Marcel H. Schulz, Thomas Look, Matthias Begemann, Martin Zenke, Ivan G. Costa. \
 **Genome Biology 20**, (2019).
 
 1. [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159)\
 **Zhijian Li**, Jinglei Guo, Shengxiang Yang.\
 **International Journal of Wireless and Mobile Computing** (2016).
-
 
 ### Contributed papers
 
