@@ -68,7 +68,7 @@ IGVF Consortium. \
 **Nature** (2024).
 
 8. [Joint genotypic and phenotypic outcome modeling improves base editing variant effect quantification](https://www.nature.com/articles/s41588-024-01726-6) \
-Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Francoeur, Quang Vinh Phan, **Zhijian Li**, Manuel Tognon, Lara Brown, Michael I. Love, Guillaume Lettre, David B. Ascher, Christopher A. Cassa, Richard I. Sherwood, Luca Pinello.
+Jayoung Ryu, Sam Barkal, Tian Yu, Martin Jankowiak, Yunzhuo Zhou, Matthew Francoeur, Quang Vinh Phan, **Zhijian Li**, Manuel Tognon, Lara Brown, Michael I. Love, Guillaume Lettre, David B. Ascher, Christopher A. Cassa, Richard I. Sherwood, Luca Pinello. \
 **Nature Genetics** (2024).
 
 7. [A lncRNA identifies IRF8 enhancer in feedback control of DC development](https://elifesciences.org/articles/83342)\
