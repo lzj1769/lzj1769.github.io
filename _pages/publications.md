@@ -55,11 +55,11 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 ### Contributed papers
 
-11. [CREB determines the expression of ST2 in Tregs and mediates the balance between type 1 and type 2 immune responses](https://www.biorxiv.org/content/10.1101/2024.06.29.601312v1.abstract)\
+11. [CREB REGULATES FOXP3+ST-2+ TREGS WITH ENHANCED IL-10 PRODUCTION](https://www.biorxiv.org/content/10.1101/2024.06.29.601312v2)\
 Sudheendra Hebbar Subramanyam, Judit Hriczko, Thomas Look, Tannaz Goodarzi, Tim Clarner, Eva Verjans, Svenja Boell, Christopher Neullens, Ivan Costa, **Zhijian Li**, Lin Gan, Bernd Denecke, Angela Schippers, Stefan Floess, Jochen Huehn, Edgar Schmitt, Tobias Bopp, Hermann Wasmuth, Ron Winograd, Rudi Beyaert, Bart Lambrecht, Peter Boor, Martin Zenke, Norbert Wagner, Kim Ohl, Klaus Tenbrock \
 **Biorxiv** (2024).
 
-10. [PHLOWER-Single cell trajectory analysis using Decomposition of the Hodge Laplacian](https://www.biorxiv.org/content/10.1101/2024.10.01.613179v1.abstract)\
+10. [PHLOWER-Single cell trajectory analysis using Decomposition of the Hodge Laplacian](https://www.biorxiv.org/content/10.1101/2024.10.01.613179v2)\
 Mingbo Cheng, Jitske Jansen, Katharina Reimer, James Shiniti Nagai, **Zhijian Li**, Paul Kiessling, Martin Grasshoff, Christoph Kuppe, Michael Schaub, Rafael Kramann, Ivan Gesteira Costa Filho\
 **Biorxiv** (2024).
 
