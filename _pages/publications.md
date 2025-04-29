@@ -21,7 +21,7 @@ Tian Yu<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Ellie Gibbs<sup>\#</sup>, Rei
 **Biorxiv** (2024).
 
 8. [Single cell multi-omics of fibrotic kidney reveal epigenetic regulation of antioxidation and apoptosis within proximal tubule](https://link.springer.com/article/10.1007/s00018-024-05118-1) \
-Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \\
+Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian Li<sup>\*</sup>**, Shan Mou<sup>\*</sup>. \
 **Cellular and Molecular Life Sciences 81**, 1-16 (2024).
 
 7. [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
