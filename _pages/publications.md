@@ -8,7 +8,7 @@ permalink: /publications/
 # Publications
 
 For a full list see: [Google Scholar](https://scholar.google.de/citations?user=xG5HYekAAAAJ&hl=en)  
-<sup>\#</sup> Co-first authors; <sup>\*</sup> Co-corresponding authors
+^#^ Co-first authors; ^*^ Co-corresponding authors
 
 ### Selected papers
 
