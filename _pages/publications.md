@@ -12,7 +12,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 ### Selected papers
 
-10. [Spatial multi-omics decipher fibroblast-macrophage dynamics in systemic sclerosis](https://www.biorxiv.org/content/10.1101/2025.01.14.632962v1)\
+1. [Spatial multi-omics decipher fibroblast-macrophage dynamics in systemic sclerosis](https://www.sciencedirect.com/science/article/pii/S0003496725009537)\
 **Zhijian Li**, Aleix Rius Rigau, Wenjie Xie, Linlin Huang, Wenjing Ye, Yi-Nan Li, Alexandru-Emil Matei, Christina Bergmann, Xiaohang Shao, Hejian Zou, Jiucun Wang, Luca Pinello, Jörg H.W. Distler<sup>\*</sup>, Rui He<sup>\*</sup>, and Minrui Liang<sup>\*</sup> \
 **Annals of the Rheumatic Diseases** (2025). (Accepted).
 
@@ -26,7 +26,7 @@ Zhejun Chen, Liqing Ye, Minyan Zhu, Cong Xia, Junfen Fan, Hongbo Chen, **Zhijian
 
 1. [Benchmarking computational methods to identify spatially variable genes and peaks](https://www.biorxiv.org/content/10.1101/2023.12.02.569717v1.abstract) \
 **Zhijian Li<sup>\#</sup>**, Zain M.Patel<sup>\#</sup>, Dongyuan Song, Guanao Yan, Jingyi Jessica Li, Luca Pinello. \
-**Biorxiv** (2023). 
+**Biorxiv** (2023).
 
 1. [RGT: a toolbox for the integrative analysis of high throughput regulatory genomics data](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/s12859-023-05184-5) \
 **Zhijian Li<sup>\#\*</sup>**, Chao-Chung Kuo<sup>\#</sup>, Fabio Ticconi, Mina Shaigan, Julia Gehrmann, Eduardo Gade Gusmao, Manuel Allhoff, Martin Manolov, Martin Zenke, Ivan G. Costa<sup>\*</sup>. \
