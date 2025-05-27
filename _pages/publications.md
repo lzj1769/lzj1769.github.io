@@ -14,7 +14,7 @@ For a full list see: [Google Scholar](https://scholar.google.de/citations?user=x
 
 1. [Spatial multi-omics decipher fibroblast-macrophage dynamics in systemic sclerosis](https://www.sciencedirect.com/science/article/pii/S0003496725009537)\
 **Zhijian Li**, Aleix Rius Rigau, Wenjie Xie, Linlin Huang, Wenjing Ye, Yi-Nan Li, Alexandru-Emil Matei, Christina Bergmann, Xiaohang Shao, Hejian Zou, Jiucun Wang, Luca Pinello, Jörg H.W. Distler<sup>\*</sup>, Rui He<sup>\*</sup>, and Minrui Liang<sup>\*</sup> \
-**Annals of the Rheumatic Diseases** (2025). (Accepted).
+**Annals of the Rheumatic Diseases** (2025).
 
 1. [Deaminase-mediated chromatin accessibility profiling with single-allele resolution](https://www.biorxiv.org/content/10.1101/2024.12.17.628768v1.abstract)\
 Tian Yu<sup>\#</sup>, **Zhijian Li<sup>\#</sup>**, Ellie Gibbs<sup>\#</sup>, Reina Iwase, Matthew J Francoeur, Quang vinh Phan, Jing Zhao, Jane Rosin, Phillip A Cole, Luca Pinello<sup>\*</sup>, Richard I Sherwood<sup>\*</sup> \
