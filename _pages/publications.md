@@ -46,7 +46,7 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 1. [Identification of transcription factor binding sites using ATAC-seq](https://genomebiology.biomedcentral.com/articles/10.1186/s13059-019-1642-2)\
 **Zhijian Li**, Marcel H. Schulz, Thomas Look, Matthias Begemann, Martin Zenke, Ivan G. Costa. \
-**Genome Biology 20**, (2019).
+**Genome Biology 20**, 45 (2019).
 
 1. [Improving the JADE Algorithm by Clustering Successful Parameters](https://www.inderscienceonline.com/doi/abs/10.1504/IJWMC.2016.081159)\
 **Zhijian Li**, Jinglei Guo, Shengxiang Yang.\
@@ -54,13 +54,13 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 ### Contributed papers
 
-1. [Defining and benchmarking open problems in single-cell analysis](https://pubmed.ncbi.nlm.nih.gov/38645152/) \
+1. [Defining and benchmarking open problems in single-cell analysis](https://www.nature.com/articles/s41587-025-02694-w) \
 Malte D. Luecken<sup>\#</sup>, Scott Gigante<sup>\#</sup>, Daniel B. Burkhardt<sup>\#</sup>, Robrecht Cannoodt<sup>\#</sup>, Daniel C. Strobl, Nikolay S. Markov10, Luke Zappia, Giovanni Palla, Wesley Lewis, Daniel Dimitrov, Michael E. Vinyard, D.S. Magruder, Michaela F. Mueller, Alma Andersson, Emma Dann, Qian Qin, Dominik J. Otto, Michal Klein, Olga Borisovna Botvinnik, Louise Deconinck, Kai Waldrant, Sai Nirmayi Yasa, Artur Szałata, Andrew Benz, **Zhijian Li**, Jonathan M. Bloom, Angela Oliveira Pisco, Julio Saez-Rodriguez, Drausin Wulsin, Luca Pinello, Yvan Saeys, Fabian J Theis<sup>\*</sup>, Smita Krishnaswamy<sup>\*</sup>. \
-**Nature Biotechnology**, (2025). (Accepted).
+**Nature Biotechnology** (2025).
 
-1.  [CREB REGULATES FOXP3+ST-2+ TREGS WITH ENHANCED IL-10 PRODUCTION](https://www.biorxiv.org/content/10.1101/2024.06.29.601312v2)\
+1.  [CREB regulates Foxp3+ ST-2+ Tregs with enhanced IL-10 production](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1601008/full)\
 Sudheendra Hebbar Subramanyam, Judit Hriczko, Thomas Look, Tannaz Goodarzi, Tim Clarner, Eva Verjans, Svenja Boell, Christopher Neullens, Ivan Costa, **Zhijian Li**, Lin Gan, Bernd Denecke, Angela Schippers, Stefan Floess, Jochen Huehn, Edgar Schmitt, Tobias Bopp, Hermann Wasmuth, Ron Winograd, Rudi Beyaert, Bart Lambrecht, Peter Boor, Martin Zenke, Norbert Wagner, Kim Ohl, Klaus Tenbrock \
-**Biorxiv** (2024).
+**Frontiers in Immunology** (2025).
 
 1.  [PHLOWER-Single cell trajectory analysis using Decomposition of the Hodge Laplacian](https://www.biorxiv.org/content/10.1101/2024.10.01.613179v2)\
 Mingbo Cheng, Jitske Jansen, Katharina Reimer, James Shiniti Nagai, **Zhijian Li**, Paul Kiessling, Martin Grasshoff, Christoph Kuppe, Michael Schaub, Rafael Kramann, Ivan Gesteira Costa Filho\
