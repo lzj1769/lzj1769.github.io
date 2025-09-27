@@ -54,7 +54,7 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 ### Contributed papers
 
-1. [Mapping disease critical spatially variable gene programs by integrating spatial transcriptomics with human genetics]([https://www.biorxiv.org/content/10.1101/2025.09.24.678397v1]) \
+1. [Mapping disease critical spatially variable gene programs by integrating spatial transcriptomics with human genetics](https://www.biorxiv.org/content/10.1101/2025.09.24.678397v1) \
 Hanbyul Lee, Haochen Sun, Xuewei Cao, Berke Karaahmet, **Zhijian Li**, Hans Ulrich-Klein, Mariko Taga, Gao Wang, Philip L. De Jager, David A. Bennett, Luca Pinello, Xin Jin, Rahul Mazumder, Kushal K. Dey. \
 **Biorxiv** (2025).
 
