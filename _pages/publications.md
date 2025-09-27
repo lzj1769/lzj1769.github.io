@@ -54,6 +54,10 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 
 ### Contributed papers
 
+1. [Mapping disease critical spatially variable gene programs by integrating spatial transcriptomics with human genetics]([https://link.springer.com/article/10.1186/s13059-025-03731-2](https://www.biorxiv.org/content/10.1101/2025.09.24.678397v1)) \
+Hanbyul Lee, Haochen Sun, Xuewei Cao, Berke Karaahmet, **Zhijian Li**, Hans Ulrich-Klein, Mariko Taga, Gao Wang, Philip L. De Jager, David A. Bennett, Luca Pinello, Xin Jin, Rahul Mazumder, Kushal K. Dey. \
+**Biorxiv** (2025).
+
 1. [Defining and benchmarking open problems in single-cell analysis](https://www.nature.com/articles/s41587-025-02694-w) \
 Malte D. Luecken<sup>\#</sup>, Scott Gigante<sup>\#</sup>, Daniel B. Burkhardt<sup>\#</sup>, Robrecht Cannoodt<sup>\#</sup>, Daniel C. Strobl, Nikolay S. Markov10, Luke Zappia, Giovanni Palla, Wesley Lewis, Daniel Dimitrov, Michael E. Vinyard, D.S. Magruder, Michaela F. Mueller, Alma Andersson, Emma Dann, Qian Qin, Dominik J. Otto, Michal Klein, Olga Borisovna Botvinnik, Louise Deconinck, Kai Waldrant, Sai Nirmayi Yasa, Artur Szałata, Andrew Benz, **Zhijian Li**, Jonathan M. Bloom, Angela Oliveira Pisco, Julio Saez-Rodriguez, Drausin Wulsin, Luca Pinello, Yvan Saeys, Fabian J Theis<sup>\*</sup>, Smita Krishnaswamy<sup>\*</sup>. \
 **Nature Biotechnology** (2025).
