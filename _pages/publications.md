@@ -58,6 +58,10 @@ Christoph Kuppe<sup>\#</sup>, Ricardo O. Ramirez Flores<sup>\#</sup>, **Zhijian 
 Hanbyul Lee, Haochen Sun, Xuewei Cao, Berke Karaahmet, **Zhijian Li**, Hans Ulrich-Klein, Mariko Taga, Gao Wang, Philip L. De Jager, David A. Bennett, Luca Pinello, Xin Jin, Rahul Mazumder, Kushal K. Dey. \
 **Biorxiv** (2025).
 
+1.  [PHLOWER leverages single-cell multimodal data to infer complex, multi-branching cell differentiation trajectories](https://www.nature.com/articles/s41592-025-02870-5)\
+Mingbo Cheng, Jitske Jansen, Katharina Reimer, James Shiniti Nagai, **Zhijian Li**, Paul Kiessling, Martin Grasshoff, Christoph Kuppe, Michael Schaub, Rafael Kramann, Ivan Gesteira Costa Filho\
+**Nature Methods** (2025).
+
 1. [Defining and benchmarking open problems in single-cell analysis](https://www.nature.com/articles/s41587-025-02694-w) \
 Malte D. Luecken<sup>\#</sup>, Scott Gigante<sup>\#</sup>, Daniel B. Burkhardt<sup>\#</sup>, Robrecht Cannoodt<sup>\#</sup>, Daniel C. Strobl, Nikolay S. Markov10, Luke Zappia, Giovanni Palla, Wesley Lewis, Daniel Dimitrov, Michael E. Vinyard, D.S. Magruder, Michaela F. Mueller, Alma Andersson, Emma Dann, Qian Qin, Dominik J. Otto, Michal Klein, Olga Borisovna Botvinnik, Louise Deconinck, Kai Waldrant, Sai Nirmayi Yasa, Artur Szałata, Andrew Benz, **Zhijian Li**, Jonathan M. Bloom, Angela Oliveira Pisco, Julio Saez-Rodriguez, Drausin Wulsin, Luca Pinello, Yvan Saeys, Fabian J Theis<sup>\*</sup>, Smita Krishnaswamy<sup>\*</sup>. \
 **Nature Biotechnology** (2025).
@@ -65,10 +69,6 @@ Malte D. Luecken<sup>\#</sup>, Scott Gigante<sup>\#</sup>, Daniel B. Burkhardt<s
 1.  [CREB regulates Foxp3+ ST-2+ Tregs with enhanced IL-10 production](https://www.frontiersin.org/journals/immunology/articles/10.3389/fimmu.2025.1601008/full)\
 Sudheendra Hebbar Subramanyam, Judit Hriczko, Thomas Look, Tannaz Goodarzi, Tim Clarner, Eva Verjans, Svenja Boell, Christopher Neullens, Ivan Costa, **Zhijian Li**, Lin Gan, Bernd Denecke, Angela Schippers, Stefan Floess, Jochen Huehn, Edgar Schmitt, Tobias Bopp, Hermann Wasmuth, Ron Winograd, Rudi Beyaert, Bart Lambrecht, Peter Boor, Martin Zenke, Norbert Wagner, Kim Ohl, Klaus Tenbrock \
 **Frontiers in Immunology** (2025).
-
-1.  [PHLOWER-Single cell trajectory analysis using Decomposition of the Hodge Laplacian](https://www.biorxiv.org/content/10.1101/2024.10.01.613179v2)\
-Mingbo Cheng, Jitske Jansen, Katharina Reimer, James Shiniti Nagai, **Zhijian Li**, Paul Kiessling, Martin Grasshoff, Christoph Kuppe, Michael Schaub, Rafael Kramann, Ivan Gesteira Costa Filho\
-**Biorxiv** (2024).
 
 1. [Deciphering the impact of genomic variation on function](https://www.nature.com/articles/s41586-024-07510-0)\
 IGVF Consortium. \
